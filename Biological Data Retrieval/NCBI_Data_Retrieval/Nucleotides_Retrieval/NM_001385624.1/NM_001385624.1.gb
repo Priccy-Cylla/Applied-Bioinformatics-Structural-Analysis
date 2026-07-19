@@ -1,0 +1,318 @@
+LOCUS       NM_001385624            2802 bp    mRNA    linear   PRI 09-APR-2026
+DEFINITION  Homo sapiens angiotensin II receptor type 2 (AGTR2), transcript
+            variant 2, mRNA.
+ACCESSION   NM_001385624 XM_011537533
+VERSION     NM_001385624.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2802)
+  AUTHORS   Kotliar,I.B., Bendes,A., Dahl,L., Chen,Y., Saarinen,M., Ceraudo,E.,
+            Dodig-Crnkovic,T., Uhlen,M., Svenningsson,P., Schwenk,J.M. and
+            Sakmar,T.P.
+  TITLE     Multiplexed mapping of the interactome of GPCRs with receptor
+            activity-modifying proteins
+  JOURNAL   Sci Adv 10 (31), eado9959 (2024)
+   PUBMED   39083597
+REFERENCE   2  (bases 1 to 2802)
+  AUTHORS   Clark,C.R. and Khalil,R.A.
+  TITLE     Regulation of vascular angiotensin II type 1 and type 2 receptor
+            and angiotensin-(1-7)/MasR signaling in normal and hypertensive
+            pregnancy
+  JOURNAL   Biochem Pharmacol 220, 115963 (2024)
+   PUBMED   38061417
+  REMARK    GeneRIF: Regulation of vascular angiotensin II type 1 and type 2
+            receptor and angiotensin-(1-7)/MasR signaling in normal and
+            hypertensive pregnancy.
+            Review article
+REFERENCE   3  (bases 1 to 2802)
+  AUTHORS   Schwartz,K.S., Lang,J.A. and Stanhewicz,A.E.
+  TITLE     Angiotensin II type 2 receptor-mediated dilation is greater in the
+            cutaneous microvasculature of premenopausal women compared with men
+  JOURNAL   J Appl Physiol (1985) 135 (6), 1236-1242 (2023)
+   PUBMED   37823205
+  REMARK    GeneRIF: Angiotensin II type 2 receptor-mediated dilation is
+            greater in the cutaneous microvasculature of premenopausal women
+            compared with men.
+            Erratum:[J Appl Physiol (1985). 2024 Feb 1;136(2):399. doi:
+            10.1152/japplphysiol.00382.2023_COR. PMID: 38324362]
+REFERENCE   4  (bases 1 to 2802)
+  AUTHORS   Wang,L., Rossi,R.M., Chen,X., Chen,J., Runyon,J., Chawla,M.,
+            Miller,D., Forney,C., Lynch,A., Zhang,X., Kong,F., Jacobsson,B.,
+            Kottyan,L.C., Weirauch,M.T., Zhang,G. and Muglia,L.J.
+  TITLE     A functional mechanism for a non-coding variant near AGTR2
+            associated with risk for preterm birth
+  JOURNAL   BMC Med 21 (1), 258 (2023)
+   PUBMED   37455310
+  REMARK    GeneRIF: A functional mechanism for a non-coding variant near AGTR2
+            associated with risk for preterm birth.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 2802)
+  AUTHORS   Liu,J., Jin,B., Lu,J., Feng,Y., Li,N., Wan,C., Zhang,Q.Y. and
+            Jiang,C.M.
+  TITLE     Angiotensin II type 2 receptor prevents extracellular matrix
+            accumulation in human peritoneal mesothelial cell by ameliorating
+            lipid disorder via LOX-1 suppression
+  JOURNAL   Ren Fail 44 (1), 1687-1697 (2022)
+   PUBMED   36226438
+  REMARK    GeneRIF: Angiotensin II type 2 receptor prevents extracellular
+            matrix accumulation in human peritoneal mesothelial cell by
+            ameliorating lipid disorder via LOX-1 suppression.
+REFERENCE   6  (bases 1 to 2802)
+  AUTHORS   Ichiki,T., Labosky,P.A., Shiota,C., Okuyama,S., Imagawa,Y.,
+            Fogo,A., Niimura,F., Ichikawa,I., Hogan,B.L. and Inagami,T.
+  TITLE     Effects on blood pressure and exploratory behaviour of mice lacking
+            angiotensin II type-2 receptor
+  JOURNAL   Nature 377 (6551), 748-750 (1995)
+   PUBMED   7477267
+REFERENCE   7  (bases 1 to 2802)
+  AUTHORS   Hein,L., Barsh,G.S., Pratt,R.E., Dzau,V.J. and Kobilka,B.K.
+  TITLE     Behavioural and cardiovascular effects of disrupting the
+            angiotensin II type-2 receptor in mice
+  JOURNAL   Nature 377 (6551), 744-747 (1995)
+   PUBMED   7477266
+  REMARK    Erratum:[Nature 1996 Mar 28;380(6572):366]
+REFERENCE   8  (bases 1 to 2802)
+  AUTHORS   Lazard,D., Briend-Sutren,M.M., Villageois,P., Mattei,M.G.,
+            Strosberg,A.D. and Nahmias,C.
+  TITLE     Molecular characterization and chromosome localization of a human
+            angiotensin II AT2 receptor gene highly expressed in fetal tissues
+  JOURNAL   Recept Channels 2 (4), 271-280 (1994)
+   PUBMED   7719706
+REFERENCE   9  (bases 1 to 2802)
+  AUTHORS   Takayanagi,R., Ohnaka,K., Sakai,Y., Nakao,R., Yanase,T., Haji,M.,
+            Inagami,T., Furuta,H., Gou,D.F., Nakamuta,M. et al.
+  TITLE     Molecular cloning, sequence analysis and expression of a cDNA
+            encoding human type-1 angiotensin II receptor
+  JOURNAL   Biochem Biophys Res Commun 183 (2), 910-916 (1992)
+   PUBMED   1550596
+REFERENCE   10 (bases 1 to 2802)
+  AUTHORS   Itoh,H., Toyama,R., Kozasa,T., Tsukamoto,T., Matsuoka,M. and
+            Kaziro,Y.
+  TITLE     Presence of three distinct molecular species of Gi protein alpha
+            subunit. Structure of rat cDNAs and human genomic DNAs
+  JOURNAL   J Biol Chem 263 (14), 6656-6664 (1988)
+   PUBMED   2834384
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AL732602.5.
+            
+            On Jul 21, 2020 this sequence version replaced XM_011537533.1.
+            
+            Summary: The protein encoded by this gene belongs to the G-protein
+            coupled receptor 1 family, and functions as a receptor for
+            angiotensin II. It is an intergral membrane protein that is highly
+            expressed in fetus and in neonates, but scantily in adult tissues,
+            except brain, adrenal medulla, and atretic ovary. This receptor has
+            been shown to mediate programmed cell death and this apoptotic
+            function may play an important role in developmental biology and
+            pathophysiology. Mutations in this gene are been associated with
+            X-linked cognitive disability. Severe Acute Respiratory Syndrome
+            Coronavirus (SARS-CoV) and SARS-CoV-2 infection results in
+            down-regulation of angiotensin converting enzyme-2 (ACE2)
+            receptors, the effects of which, triggers serious inflammatory
+            lesions in the tissues involved, primarily in the lungs. The
+            inflammatory reaction appears to be mediated by angiotensin II
+            derivatives, including the angiotensin AT2 receptor which has been
+            found to be upregulated in bronchoalveolar lavage samples from
+            Coronavirus disease 2019 (COVID19) patients. [provided by RefSeq,
+            Jul 2020].
+            
+            Transcript Variant: This variant (2) lacks an exon in the
+            non-coding region compared to variant 1. Both variants 1 and 2
+            encode the same protein.
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: DB249121.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1968832, SAMEA2142363
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            coronavirus related :: relevant for disease process
+            ##RefSeq-Attributes-END##
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-73                AL732602.5         126614-126686
+            74-2802             AL732602.5         128116-130844
+FEATURES             Location/Qualifiers
+     source          1..2802
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xq23"
+     gene            1..2802
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="angiotensin II receptor type 2"
+                     /db_xref="GeneID:186"
+                     /db_xref="HGNC:HGNC:338"
+                     /db_xref="MIM:300034"
+     exon            1..73
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /inference="alignment:Splign:2.1.0"
+     exon            74..2802
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    97..99
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="upstream in-frame stop codon"
+     CDS             109..1200
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="isoform 1 is encoded by transcript variant 2;
+                     type-2 angiotensin II receptor; angiotensin II type-2
+                     receptor; AT2 receptor"
+                     /codon_start=1
+                     /product="type-2 angiotensin II receptor isoform 1"
+                     /protein_id="NP_001372553.1"
+                     /db_xref="CCDS:CCDS14569.1"
+                     /db_xref="GeneID:186"
+                     /db_xref="HGNC:HGNC:338"
+                     /db_xref="MIM:300034"
+                     /translation="MKGNSTLATTSKNITSGLHFGLVNISGNNESTLNCSQKPSDKHL
+                     DAIPILYYIIFVIGFLVNIVVVTLFCCQKGPKKVSSIYIFNLAVADLLLLATLPLWAT
+                     YYSYRYDWLFGPVMCKVFGSFLTLNMFASIFFITCMSVDRYQSVIYPFLSQRRNPWQA
+                     SYIVPLVWCMACLSSLPTFYFRDVRTIEYLGVNACIMAFPPEKYAQWSAGIALMKNIL
+                     GFIIPLIFIATCYFGIRKHLLKTNSYGKNRITRDQVLKMAAAVVLAFIICWLPFHVLT
+                     FLDALAWMGVINSCEVIAVIDLALPFAILLGFTNSCVNPFLYCFVGNRFQQKLRSVFR
+                     VPITWLQGKRESMSCRKSSSLREMETFVS"
+     misc_feature    118..120
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P50052.1); glycosylation site"
+     misc_feature    145..147
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P50052.1); glycosylation site"
+     misc_feature    178..180
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P50052.1); glycosylation site"
+     misc_feature    193..195
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P50052.1); glycosylation site"
+     misc_feature    208..210
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="N-linked (GlcNAc...) asparagine.
+                     /evidence=ECO:0000255; propagated from
+                     UniProtKB/Swiss-Prot (P50052.1); glycosylation site"
+     misc_feature    244..318
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="propagated from UniProtKB/Swiss-Prot (P50052.1);
+                     transmembrane region"
+     misc_feature    349..420
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="propagated from UniProtKB/Swiss-Prot (P50052.1);
+                     transmembrane region"
+     misc_feature    451..528
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="propagated from UniProtKB/Swiss-Prot (P50052.1);
+                     transmembrane region"
+     misc_feature    586..651
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="propagated from UniProtKB/Swiss-Prot (P50052.1);
+                     transmembrane region"
+     misc_feature    727..804
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="propagated from UniProtKB/Swiss-Prot (P50052.1);
+                     transmembrane region"
+     misc_feature    880..951
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="propagated from UniProtKB/Swiss-Prot (P50052.1);
+                     transmembrane region"
+     misc_feature    991..1068
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="propagated from UniProtKB/Swiss-Prot (P50052.1);
+                     transmembrane region"
+     misc_feature    1078..1107
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="propagated from UniProtKB/Swiss-Prot (P50052.1);
+                     Region: Helix VIII. /evidence=ECO:0000269|PubMed:28379944"
+     regulatory      2778..2783
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="hexamer: AATAAA"
+     polyA_site      2802
+                     /gene="AGTR2"
+                     /gene_synonym="AT2; ATGR2; MRX88"
+                     /note="major polyA site"
+ORIGIN      
+        1 gctattacgt cccagcgtct gagagaacga gtaagcacag aattcaaagc attctgcagc
+       61 ctgaattttg aagaaggcat aagaactagg agctgctgac atttcaatat gaagggcaac
+      121 tccacccttg ccactactag caaaaacatt accagcggtc ttcacttcgg gcttgtgaac
+      181 atctctggca acaatgagtc taccttgaac tgttcacaga aaccatcaga taagcattta
+      241 gatgcaattc ctattcttta ctacattata tttgtaattg gatttctggt caatattgtc
+      301 gtggttacac tgttttgttg tcaaaagggt cctaaaaagg tttctagcat atacatcttc
+      361 aacctcgctg tggctgattt actccttttg gctactcttc ctctatgggc aacctattat
+      421 tcttatagat atgactggct ctttggacct gtgatgtgca aagtttttgg ttcttttctt
+      481 accctgaaca tgtttgcaag catttttttt atcacctgca tgagtgttga taggtaccaa
+      541 tctgtcatct acccctttct gtctcaaaga agaaatccct ggcaagcatc ttatatagtt
+      601 ccccttgttt ggtgtatggc ctgtttgtcc tcattgccaa cattttattt tcgagacgtc
+      661 agaaccattg aatacttagg agtgaatgct tgcattatgg ctttcccacc tgagaaatat
+      721 gcccaatggt cagctgggat tgccttaatg aaaaatatcc ttggttttat tatcccttta
+      781 atattcatag caacatgcta ttttggaatt agaaaacact tactgaagac gaatagctat
+      841 gggaagaaca ggataacccg tgaccaagtc ctgaagatgg cagctgctgt tgttctggcc
+      901 ttcatcattt gctggcttcc cttccatgtt ctgaccttcc tggatgctct ggcctggatg
+      961 ggtgtcatta atagctgcga agttatagca gtcattgacc tggcacttcc ttttgccatc
+     1021 ctcttgggat tcaccaacag ctgcgttaat ccgtttctgt attgttttgt tggaaaccgg
+     1081 ttccaacaga agctccgcag tgtgtttagg gttccaatta cttggctcca agggaaaaga
+     1141 gagagtatgt cttgccggaa aagcagttct cttagagaaa tggagacctt tgtgtcttaa
+     1201 acgtgagagc aaaatgcatg taatcaacat ggctacttgc tttgaggctc accagaatta
+     1261 tttttaagtg gttttaataa aataataaaa tttcccctaa tcttttctga atcttctgaa
+     1321 accaaatgta actatgtttt atcgtccagt gactttcagg aattgcccat tgtttttctg
+     1381 atatgtttgt acaagattgt cattagtgag acatatttac aacctagaag taactggtga
+     1441 tatatctcaa attgtaatta ataatagatt gtgaataatg atttggggat tcagatttct
+     1501 ctttgaaaca tgcttgtgtt tcttagtggg gttttatatc catttttatc aggatttcct
+     1561 cttgaaccag aaccagtctt tcaactcatt gcatcattta caagacaaca ttgtaagaga
+     1621 gatgagcact tctaagttga gtatattata atagattagt actggattat tcaggcttta
+     1681 ggcatatgct tctttaaaaa agctataaat tatattcctc ttgcatttca cttgagtgga
+     1741 ggtttatagt taatctataa ctacatattg aatagggcta ggaatataga ttaaatcata
+     1801 ctcctatgct ttagcttatt tttacagtta tagaaagcaa gatgtactat aacatagaat
+     1861 tgcaatctat aatatttgtg tgttcactaa actctgaata agcacttttt aaaaaacttt
+     1921 ctactcattt taatgattgt ttaaaggttt ctattttctc tgatactttt ttgaaatcag
+     1981 taaacactgt gtattgttgt aaaatgtaaa ggtcactttt cacatccttg actttttaga
+     2041 tgtgctgctt tgatatatag gacattgatt tgatttttat tattaatgct ttggttctgg
+     2101 gttgtttcct aaaatatctg ggtggcttaa aaaaaactct ttaacttgta ataaaccctt
+     2161 aactggcata ggaaatggta tccagaatgg aattttgcta catggggtct gggtgggggc
+     2221 aaagagaccc agtcaattac atgtttggta ccaagaaagg aacctgtcag ggcagtacaa
+     2281 tgtgactttg aaaatatata ccgtgggggt agttttaccc tatatctata aacactgttt
+     2341 gttccagaat ctgtatgatt ctatggagct attttaaacc aattgcaggt ctagatacct
+     2401 ccttctcagc actattaaag ctcctaagtt agaggagtgc ctaaaactga gttacctaaa
+     2461 gtttacttac attaaagtat gaatattaat tttagaaatt tgagacttta ttctgtacca
+     2521 gccctgtata ataacaggtt atctaggacc ttcctctgag gtaggtctaa atactgatct
+     2581 ctgaggcgga actaacgttt tggggactca gcatctctgc caggttccag gattatagac
+     2641 agaagagtcc tgtcatacca ctttctggaa aagtcctaat ttcatgtaat ccttttattt
+     2701 tcaataaaaa caaatagcta aatgtataac caactatgat gttatgtttt caataatttt
+     2761 gtaaaacagc tcatataaat aaaattttta attggaagaa ca
+//
+

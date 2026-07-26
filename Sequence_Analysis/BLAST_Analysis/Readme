@@ -1,1 +1,15 @@
+# BLAST INTERPRETATION REPORT 
+# Significance of BLAST Results
+For BLASTn results, the query sequence is highly homologous to tumor protein p53 (TP53) sequences from Homo sapiens and closely related primates. This shows that the query represents the TP53 gene or protein. It had low E-values (of 0), high BLAST scores, and very high sequence similarity, confirming that the matches are statistically significant and hence did not occur by chance.
 
+# Query Coverage
+Query coverage refers to the percentage of the query sequence that aligns with the database sequence. This sequence shows a query coverage close to 100%, indicating that almost the whole query sequence matched the subject sequences. This informs us that the complete gene or protein was not only a fragment but was identified.
+
+# Percent Identity
+Percent identity measures the proportion of identical nucleotides or amino acids in the aligned regions. This sequence had approximately 99 to 100 percent identity for human TP53 sequences and a bit lower for non-human primates. The very high percent identity reflects strong evolutionary conservation and indicates that these sequences have the same biological function. 
+
+# Conserved Regions (for protein)
+For BLASTp results, conserved regions correspond to functional domains that have remained largely unchanged throughout evolution because they are vital for protein activity. In p53, conserved domains like the DNA-binding domain are required for regulating cell-cycle progression, DNA repair, and apoptosis.
+
+# Biological Relationship between the Identified Homologs
+The identified homologs share a common evolutionary origin. They are orthologous genes, indicating that TP53 has been highly conserved across mammals due to its vital role as a tumor suppressor and guardian of genome integrity.

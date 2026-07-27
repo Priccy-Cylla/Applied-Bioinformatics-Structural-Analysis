@@ -1,1 +1,41 @@
+This is a summary of the NCBI Protein Sequences containing the accession numbers, organism names, gene names and biological functions.
 
+# 1. KAI4032927.1	
+# Organism Name	
+Homo sapiens
+# Protein Name
+Insulin-like Growth Factor 2 mRNA-Binding Protein 2 (IGF2BP2)
+# Biological Function
+This is an RNA-binding protein that regulates the stability, localization, and translation of target mRNAs, including IGF2. It plays a role in embryonic development, cell growth, metabolism, and differentiation. Dysregulation of IGF2BP2 has been linked to Type 2 Diabetes Mellitus, obesity, and several cancers, where it promotes cell proliferation, migration, and survival.
+
+# 2. NP_000509.1	
+# Organism Name
+Homo sapiens	
+# Protein Name
+Hemoglobin subunit beta (HBB)	
+# Biological Function
+Hemoglobin subunit beta is one of the two types of globin chains that make up adult hemoglobin (HbA) in red blood cells. Together with the alpha-globin subunits, it binds and transports oxygen from the lungs to body tissues and facilitates carbon dioxide transport back to the lungs. Mutations in the HBB gene can cause inherited blood disorders such as Sickle Cell Disease and β-thalassemia, making it one of the clinically significant human proteins.
+
+# 3. NP_001369155.1
+# Organism Name
+Homo sapiens
+# Protein Name
+Myeloid Leukemia Factor 2 (MLF2)
+# Biological Function
+Myeloid Leukemia Factor 2 (MLF2) is a nuclear protein responsible for regulating gene expression, protein homeostasis, and cellular stress responses. It helps to maintain normal cell growth and differentiation and has been implicated in nuclear envelope organization. Abnormal expression or dysfunction of MLF2 has been associated with certain haematological malignancies, such as Leukemia, and other diseases involving disrupted nuclear protein quality control.
+
+# 4. NP_059016.2
+# Organism Name
+Rattus norvegicus (Norway rat)
+# Protein Name
+Cathepsin S preproprotein (CTSS)
+# Biological Function
+Cathepsin S is a lysosomal cysteine protease synthesized as an inactive preproprotein and activated after proteolytic processing. It is responsible for intracellular protein degradation, extracellular matrix remodeling, and antigen processing for presentation by major histocompatibility complex (MHC) class II molecules. Cathepsin S plays a crucial role in immune responses and has been implicated in inflammatory diseases, autoimmune disorders, atherosclerosis, and cancer, making it a potential therapeutic target.
+
+# 5. PKF65959.1	
+# Organism Name
+Haemophilus influenzae
+# Protein Name
+16S rRNA (cytosine(967)-C(5))-methyltransferase (RsmB/RsmF family)	
+# Biological Function
+This enzyme methylates cytosine at position 967 of the bacterial 16S ribosomal RNA (rRNA), a post-transcriptional modification essential for proper ribosome assembly and function. The modification helps maintain translation accuracy, ribosomal stability, and efficient protein synthesis. As a ribosomal RNA-modifying enzyme, it is essential for bacterial growth and survival and may influence susceptibility to certain antibiotics that target the bacterial ribosome.

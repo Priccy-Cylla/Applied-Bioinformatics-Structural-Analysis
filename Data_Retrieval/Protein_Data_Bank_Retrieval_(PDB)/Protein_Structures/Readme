@@ -30,7 +30,7 @@ Islet Amyloid Polypeptide
 # Organism	
 Homo sapiens (Human)
 # Experimental method	
-Solid-state Nuclear Magnetic Resonance (ssNMR)
+Solution Nuclear Magnetic Resonance (Solution NMR)
 # Biological Function	
 Islet amyloid polypeptide (IAPP) is also known as amylin. It is a 37-amino-acid peptide hormone produced and co-secreted with insulin by pancreatic β-cells. It regulates glucose metabolism, gastric emptying, and satiety. In humans, IAPP has a strong tendency to misfold and form amyloid fibrils, which are a major pathological feature of pancreatic islets in type 2 Diabetes Mellitus (T2DM).
 
@@ -40,9 +40,9 @@ Erythrocyte Membrane Protein 1
 # Organism	
 Plasmodium falciparum (Malaria parasite)
 # Experimental method	
-X-ray crystallography
+Electron Microscopy
 # Resolution
-2.80 Å
+3.38 Å
 # Biological Function
 Erythrocyte membrane protein 1 is a major virulence factor expressed on the surface of Plasmodium falciparum-infected red blood cells. It is encoded by the highly variable var gene family and plays a crucial role in malaria pathogenesis by mediating adhesion of infected erythrocytes to host endothelial receptors and avoiding immune clearance. It interacts with host receptors such as CD36, ICAM-1, and endothelial protein C receptor (EPCR), enabling parasite sequestration and immune evasion. This then contributes to severe malaria complications, including cerebral malaria.
 

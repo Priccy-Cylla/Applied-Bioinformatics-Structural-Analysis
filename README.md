@@ -7,6 +7,7 @@ Welcome to the official GitHub repository of the BioCode Innovators Bioinformati
 
 # Learning Objectives
 Participants will learn how to: 
+
 • Retrieve biological data from public databases.
 
 • Analyze nucleotide and protein sequences.

@@ -6,7 +6,7 @@ Human prostasin
 # Organism
 Homo sapiens
 # Experimental method
-X-ray crystallography
+X-ray Diffraction
 # Resolution
 1.45 Å
 # Biological Function
@@ -18,7 +18,7 @@ Hemoglobin subunit alpha, Hemoglobin subunit beta
 # Organism
 Homo sapiens (Human)
 # Experimental method	
-X-ray crystallography
+X-ray Diffraction
 # Resolution	
 1.76 Å
 # Biological Function
@@ -52,8 +52,8 @@ Atrial Natriuretic Peptide Receptor 1
 # Organism	
 Homo sapiens (Human)
 # Experimental method	
-Cryo-Electron Microscopy (Cryo-EM)
+Electron Microscopy 
 # Resolution	
-3.10 Å 
+4.40 Å 
 # Biological significance	
 Atrial natriuretic peptide receptor 1 is encoded by the NPR1 gene. It is a membrane-bound receptor involved in cardiovascular homeostasis. It is activated by natriuretic peptides, specifically atrial natriuretic peptide (ANP) and B-type natriuretic peptide (BNP), which are released in response to increased cardiac pressure and volume. This activates its intracellular guanylyl cyclase domain to produce cGMP. This pathway promotes vasodilation, sodium excretion, and blood pressure regulation and plays a role in hypertension, heart failure, and cardiovascular drug discovery.

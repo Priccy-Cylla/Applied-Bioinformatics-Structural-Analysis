@@ -1,0 +1,646 @@
+ID   TNNI3_HUMAN             Reviewed;         210 AA.
+AC   P19429;
+DT   01-FEB-1991, integrated into UniProtKB/Swiss-Prot.
+DT   23-JAN-2007, sequence version 3.
+DT   10-JUN-2026, entry version 229.
+DE   RecName: Full=Troponin I, cardiac muscle;
+DE   AltName: Full=Cardiac troponin I;
+GN   Name=TNNI3; Synonyms=TNNC1;
+OS   Homo sapiens (Human).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+OC   Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae;
+OC   Homo.
+OX   NCBI_TaxID=9606;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RC   TISSUE=Heart muscle;
+RX   PubMed=2226790; DOI=10.1016/0014-5793(90)81234-f;
+RA   Vallins W.J., Brand N.J., Dabhade N., Butler-Browne G., Yacoub M.H.,
+RA   Barton P.J.R.;
+RT   "Molecular cloning of human cardiac troponin I using polymerase chain
+RT   reaction.";
+RL   FEBS Lett. 270:57-61(1990).
+RN   [2]
+RP   SEQUENCE REVISION TO 85, AND NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=8406024; DOI=10.1016/0378-1119(93)90308-p;
+RA   Armour K.L., Harris W.J., Tempest P.R.;
+RT   "Cloning and expression in Escherichia coli of the cDNA encoding human
+RT   cardiac troponin I.";
+RL   Gene 131:287-292(1993).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   PubMed=1934363; DOI=10.1161/01.res.69.5.1409;
+RA   Hunkeler N.M., Kullman J., Murphy A.M.;
+RT   "Troponin I isoform expression in human heart.";
+RL   Circ. Res. 69:1409-1414(1991).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=8661099; DOI=10.1006/geno.1996.0317;
+RA   Bhavsar P.K., Brand N.J., Yacoub M.H., Barton P.J.R.;
+RT   "Isolation and characterization of the human cardiac troponin I gene
+RT   (TNNI3).";
+RL   Genomics 35:11-23(1996).
+RN   [5]
+RP   PROTEIN SEQUENCE OF 11-36, ACETYLATION AT ALA-2, AND PHOSPHORYLATION AT
+RP   SER-23 AND SER-24.
+RX   PubMed=2226863; DOI=10.1016/0014-5793(90)81046-q;
+RA   Mittmann K., Jaquet K., Heilmeyer L.M.G. Jr.;
+RT   "A common motif of two adjacent phosphoserines in bovine, rabbit and human
+RT   cardiac troponin I.";
+RL   FEBS Lett. 273:41-45(1990).
+RN   [6]
+RP   PHOSPHORYLATION AT SER-23 AND SER-24.
+RX   PubMed=9346285; DOI=10.1111/j.1432-1033.1997.00329.x;
+RA   Keane N.E., Quirk P.G., Gao Y., Patchell V.B., Perry S.V., Levine B.A.;
+RT   "The ordered phosphorylation of cardiac troponin I by the cAMP-dependent
+RT   protein kinase -- structural consequences and functional implications.";
+RL   Eur. J. Biochem. 248:329-337(1997).
+RN   [7]
+RP   PHOSPHORYLATION AT SER-150 BY PAK3.
+RX   PubMed=12242269; DOI=10.1161/01.res.0000035246.27856.53;
+RA   Buscemi N., Foster D.B., Neverova I., Van Eyk J.E.;
+RT   "p21-activated kinase increases the calcium sensitivity of rat triton-
+RT   skinned cardiac muscle fiber bundles via a mechanism potentially involving
+RT   novel phosphorylation of troponin I.";
+RL   Circ. Res. 91:509-516(2002).
+RN   [8]
+RP   PHOSPHORYLATION AT SER-23 AND SER-24.
+RX   PubMed=15514163; DOI=10.1161/01.res.0000149299.34793.3c;
+RA   Haworth R.S., Cuello F., Herron T.J., Franzen G., Kentish J.C., Gautel M.,
+RA   Avkiran M.;
+RT   "Protein kinase D is a novel mediator of cardiac troponin I phosphorylation
+RT   and regulates myofilament function.";
+RL   Circ. Res. 95:1091-1099(2004).
+RN   [9]
+RP   INTERACTION WITH TRIM63.
+RX   PubMed=15601779; DOI=10.1073/pnas.0404341102;
+RA   Kedar V., McDonough H., Arya R., Li H.-H., Rockman H.A., Patterson C.;
+RT   "Muscle-specific RING finger 1 is a bona fide ubiquitin ligase that
+RT   degrades cardiac troponin I.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 101:18135-18140(2004).
+RN   [10]
+RP   INTERACTION WITH STK4/MST1, AND PHOSPHORYLATION AT THR-31; THR-51; THR-129
+RP   AND THR-143.
+RX   PubMed=18986304; DOI=10.1042/bj20081340;
+RA   You B., Yan G., Zhang Z., Yan L., Li J., Ge Q., Jin J.P., Sun J.;
+RT   "Phosphorylation of cardiac troponin I by mammalian sterile 20-like kinase
+RT   1.";
+RL   Biochem. J. 418:93-101(2009).
+RN   [11]
+RP   PHOSPHORYLATION AT SER-5; SER-6; SER-23; SER-24; TYR-26; SER-42; SER-44;
+RP   THR-51; SER-77; THR-78; THR-143; SER-166; THR-181 AND SER-199.
+RX   PubMed=22972900; DOI=10.1161/circulationaha.112.096388;
+RA   Zhang P., Kirk J.A., Ji W., dos Remedios C.G., Kass D.A., Van Eyk J.E.,
+RA   Murphy A.M.;
+RT   "Multiple reaction monitoring to identify site-specific troponin I
+RT   phosphorylated residues in the failing human heart.";
+RL   Circulation 126:1828-1837(2012).
+RN   [12]
+RP   STRUCTURE BY NMR OF 148-164.
+RX   PubMed=10387074; DOI=10.1021/bi9901679;
+RA   Li M.X., Spyracopoulos L., Sykes B.D.;
+RT   "Binding of cardiac troponin-I147-163 induces a structural opening in human
+RT   cardiac troponin-C.";
+RL   Biochemistry 38:8289-8298(1999).
+RN   [13]
+RP   STRUCTURE BY NMR OF 149-165 IN COMPLEX WITH CARDIAC TROPONIN C.
+RX   PubMed=12060657; DOI=10.1074/jbc.m203896200;
+RA   Wang X., Li M.X., Sykes B.D.;
+RT   "Structure of the regulatory N-domain of human cardiac troponin C in
+RT   complex with human cardiac troponin I147-163 and bepridil.";
+RL   J. Biol. Chem. 277:31124-31133(2002).
+RN   [14]
+RP   VARIANTS CMH7 GLY-145 AND GLN-206.
+RX   PubMed=9241277; DOI=10.1038/ng0897-379;
+RA   Kimura A., Harada H., Park J.-E., Nishi H., Satoh M., Takahashi M.,
+RA   Hiroi S., Sasaoka T., Ohbuchi N., Nakamura T., Koyanagi T., Hwang T.-H.,
+RA   Choo J., Chung K.-S., Hasegawa A., Nagai R., Okazaki O., Nakamura H.,
+RA   Matsuzaki M., Sakamoto T., Toshima H., Koga Y., Imaizumi T., Sasazuki T.;
+RT   "Mutations in the cardiac troponin I gene associated with hypertrophic
+RT   cardiomyopathy.";
+RL   Nat. Genet. 16:379-382(1997).
+RN   [15]
+RP   VARIANT CMH7 ASN-196, AND VARIANT SER-82.
+RX   PubMed=11815426; DOI=10.1161/hc0402.102990;
+RA   Niimura H., Patton K.K., McKenna W.J., Soults J., Maron B.J., Seidman J.G.,
+RA   Seidman C.E.;
+RT   "Sarcomere protein gene mutations in hypertrophic cardiomyopathy of the
+RT   elderly.";
+RL   Circulation 105:446-451(2002).
+RN   [16]
+RP   VARIANTS RCM1 GLN-144; TRP-145; THR-171; GLU-178; HIS-190 AND HIS-192.
+RX   PubMed=12531876; DOI=10.1172/jci16336;
+RA   Mogensen J., Kubo T., Duque M., Uribe W., Shaw A., Murphy R., Gimeno J.R.,
+RA   Elliott P., McKenna W.J.;
+RT   "Idiopathic restrictive cardiomyopathy is part of the clinical expression
+RT   of cardiac troponin I mutations.";
+RL   J. Clin. Invest. 111:209-216(2003).
+RN   [17]
+RP   VARIANTS CMH7 GLN-141; VAL-157; PRO-162; LYS-177 DEL; GLN-186 AND ASN-196.
+RX   PubMed=12707239; DOI=10.1161/01.cir.0000066323.15244.54;
+RA   Richard P., Charron P., Carrier L., Ledeuil C., Cheav T., Pichereau C.,
+RA   Benaiche A., Isnard R., Dubourg O., Burban M., Gueffet J.-P., Millaire A.,
+RA   Desnos M., Schwartz K., Hainque B., Komajda M.;
+RT   "Hypertrophic cardiomyopathy: distribution of disease genes, spectrum of
+RT   mutations, and implications for a molecular diagnosis strategy.";
+RL   Circulation 107:2227-2232(2003).
+RN   [18]
+RP   ERRATUM OF PUBMED:12707239.
+RA   Richard P., Charron P., Carrier L., Ledeuil C., Cheav T., Pichereau C.,
+RA   Benaiche A., Isnard R., Dubourg O., Burban M., Gueffet J.-P., Millaire A.,
+RA   Desnos M., Schwartz K., Hainque B., Komajda M.;
+RL   Circulation 109:3258-3258(2004).
+RN   [19]
+RP   VARIANT CMH7 PHE-166.
+RX   PubMed=12974739; DOI=10.1034/j.1399-0004.2003.00151.x;
+RA   Erdmann J., Daehmlow S., Wischke S., Senyuva M., Werner U., Raible J.,
+RA   Tanis N., Dyachenko S., Hummel M., Hetzer R., Regitz-Zagrosek V.;
+RT   "Mutation spectrum in a large cohort of unrelated consecutive patients with
+RT   hypertrophic cardiomyopathy.";
+RL   Clin. Genet. 64:339-349(2003).
+RN   [20]
+RP   VARIANT CMD2A VAL-2.
+RX   PubMed=15070570; DOI=10.1016/s0140-6736(04)15468-8;
+RA   Murphy R.T., Mogensen J., Shaw A., Kubo T., Hughes S., McKenna W.J.;
+RT   "Novel mutation in cardiac troponin I in recessive idiopathic dilated
+RT   cardiomyopathy.";
+RL   Lancet 363:371-372(2004).
+RN   [21]
+RP   VARIANTS CMH7 PRO-162; GLN-162 AND HIS-204.
+RX   PubMed=16199542; DOI=10.1136/jmg.2005.033886;
+RA   Ingles J., Doolan A., Chiu C., Seidman J., Seidman C., Semsarian C.;
+RT   "Compound and double mutations in patients with hypertrophic
+RT   cardiomyopathy: implications for genetic testing and counselling.";
+RL   J. Med. Genet. 42:E59-E59(2005).
+RN   [22]
+RP   VARIANTS CMD1FF GLN-36 AND LYS-185.
+RX   PubMed=19590045; DOI=10.1161/circresaha.109.196055;
+RA   Carballo S., Robinson P., Otway R., Fatkin D., Jongbloed J.D., de Jonge N.,
+RA   Blair E., van Tintelen J.P., Redwood C., Watkins H.;
+RT   "Identification and functional characterization of cardiac troponin I as a
+RT   novel disease gene in autosomal dominant dilated cardiomyopathy.";
+RL   Circ. Res. 105:375-382(2009).
+RN   [23]
+RP   VARIANT CMD1FF GLY-116.
+RX   PubMed=21846512; DOI=10.1016/j.ejmg.2011.07.005;
+RA   Millat G., Bouvagnet P., Chevalier P., Sebbag L., Dulac A., Dauphin C.,
+RA   Jouk P.S., Delrue M.A., Thambo J.B., Le Metayer P., Seronde M.F.,
+RA   Faivre L., Eicher J.C., Rousson R.;
+RT   "Clinical and mutational spectrum in a cohort of 105 unrelated patients
+RT   with dilated cardiomyopathy.";
+RL   Eur. J. Med. Genet. 54:E570-E575(2011).
+CC   -!- FUNCTION: Troponin I is the inhibitory subunit of troponin, the thin
+CC       filament regulatory complex which confers calcium-sensitivity to
+CC       striated muscle actomyosin ATPase activity.
+CC   -!- SUBUNIT: Binds to actin and tropomyosin. Interacts with TRIM63.
+CC       Interacts with STK4/MST1. {ECO:0000269|PubMed:12060657,
+CC       ECO:0000269|PubMed:15601779, ECO:0000269|PubMed:18986304}.
+CC   -!- INTERACTION:
+CC       P19429; P05014: IFNA4; NbExp=2; IntAct=EBI-704146, EBI-10194381;
+CC       P19429; Q5VU43-11: PDE4DIP; NbExp=4; IntAct=EBI-704146, EBI-10769071;
+CC       P19429; O43933: PEX1; NbExp=3; IntAct=EBI-704146, EBI-988601;
+CC       P19429; A6NK89: RASSF10; NbExp=3; IntAct=EBI-704146, EBI-6912267;
+CC       P19429; Q9UKA8-1: RCAN3; NbExp=3; IntAct=EBI-704146, EBI-10762111;
+CC       P19429; Q9UKA8-4: RCAN3; NbExp=2; IntAct=EBI-704146, EBI-10762136;
+CC       P19429; P63316: TNNC1; NbExp=5; IntAct=EBI-704146, EBI-3906339;
+CC       P19429; P02585: TNNC2; NbExp=3; IntAct=EBI-704146, EBI-10249681;
+CC       P19429; Q59H18: TNNI3K; NbExp=2; IntAct=EBI-704146, EBI-704142;
+CC       P19429; Q59H18-2: TNNI3K; NbExp=2; IntAct=EBI-704146, EBI-10762055;
+CC       P19429; O76024: WFS1; NbExp=3; IntAct=EBI-704146, EBI-720609;
+CC   -!- PTM: Phosphorylated at Ser-42 and Ser-44 by PRKCE; phosphorylation
+CC       increases myocardium contractile dysfunction (By similarity).
+CC       Phosphorylated at Ser-23 and Ser-24 by PRKD1; phosphorylation reduces
+CC       myofilament calcium sensitivity. Phosphorylated preferentially at Thr-
+CC       31. Phosphorylation by STK4/MST1 alters its binding affinity to TNNC1
+CC       (cardiac Tn-C) and TNNT2 (cardiac Tn-T). {ECO:0000250,
+CC       ECO:0000269|PubMed:12242269, ECO:0000269|PubMed:15514163,
+CC       ECO:0000269|PubMed:18986304, ECO:0000269|PubMed:2226863,
+CC       ECO:0000269|PubMed:22972900, ECO:0000269|PubMed:9346285}.
+CC   -!- DISEASE: Cardiomyopathy, familial hypertrophic, 7 (CMH7) [MIM:613690]:
+CC       A hereditary heart disorder characterized by ventricular hypertrophy,
+CC       which is usually asymmetric and often involves the interventricular
+CC       septum. The symptoms include dyspnea, syncope, collapse, palpitations,
+CC       and chest pain. They can be readily provoked by exercise. The disorder
+CC       has inter- and intrafamilial variability ranging from benign to
+CC       malignant forms with high risk of cardiac failure and sudden cardiac
+CC       death. {ECO:0000269|PubMed:11815426, ECO:0000269|PubMed:12707239,
+CC       ECO:0000269|PubMed:12974739, ECO:0000269|PubMed:16199542,
+CC       ECO:0000269|PubMed:9241277}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Cardiomyopathy, familial restrictive 1 (RCM1) [MIM:115210]: A
+CC       heart disorder characterized by impaired filling of the ventricles with
+CC       reduced diastolic volume, in the presence of normal or near normal wall
+CC       thickness and systolic function. {ECO:0000269|PubMed:12531876}.
+CC       Note=The disease is caused by variants affecting the gene represented
+CC       in this entry.
+CC   -!- DISEASE: Cardiomyopathy, dilated, 2A (CMD2A) [MIM:611880]: A disorder
+CC       characterized by ventricular dilation and impaired systolic function,
+CC       resulting in congestive heart failure and arrhythmia. Patients are at
+CC       risk of premature death. {ECO:0000269|PubMed:19590045,
+CC       ECO:0000269|PubMed:21846512}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- DISEASE: Cardiomyopathy, dilated, 1FF (CMD1FF) [MIM:613286]: A disorder
+CC       characterized by ventricular dilation and impaired systolic function,
+CC       resulting in congestive heart failure and arrhythmia. Patients are at
+CC       risk of premature death. {ECO:0000269|PubMed:19590045,
+CC       ECO:0000269|PubMed:21846512}. Note=The disease is caused by variants
+CC       affecting the gene represented in this entry.
+CC   -!- SIMILARITY: Belongs to the troponin I family. {ECO:0000305}.
+CC   ---------------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   ---------------------------------------------------------------------------
+DR   EMBL; X54163; CAA38102.1; -; mRNA.
+DR   EMBL; M64247; AAA16157.1; -; mRNA.
+DR   EMBL; X90780; CAA62301.1; -; Genomic_DNA.
+DR   CCDS; CCDS42628.1; -.
+DR   PIR; A61229; TPHUIC.
+DR   RefSeq; NP_000354.4; NM_000363.4.
+DR   PDB; 1J1D; X-ray; 2.61 A; C/F=31-163.
+DR   PDB; 1J1E; X-ray; 3.30 A; C/F=31-210.
+DR   PDB; 1LXF; NMR; -; I=148-164.
+DR   PDB; 1MXL; NMR; -; I=148-164.
+DR   PDB; 1OZS; NMR; -; B=129-148.
+DR   PDB; 2KGB; NMR; -; I=145-164.
+DR   PDB; 2KRD; NMR; -; I=148-164.
+DR   PDB; 2L1R; NMR; -; B=145-164.
+DR   PDB; 2MZP; NMR; -; I=145-171.
+DR   PDB; 2N7L; NMR; -; C=145-174.
+DR   PDB; 4Y99; X-ray; 2.00 A; C=1-210.
+DR   PDB; 5VLN; NMR; -; A=139-164.
+DR   PDB; 5W88; NMR; -; A=133-164.
+DR   PDB; 5WCL; NMR; -; A=139-164.
+DR   PDB; 6KN7; EM; 6.60 A; U/b=41-210.
+DR   PDB; 6KN8; EM; 4.80 A; U/b=41-166.
+DR   PDB; 6MV3; NMR; -; A=139-164.
+DR   PDB; 7JGI; NMR; -; A=139-164.
+DR   PDB; 7SC2; X-ray; 1.81 A; A=139-164.
+DR   PDB; 7SC3; X-ray; 2.23 A; A=139-164.
+DR   PDB; 7SUP; NMR; -; A=147-180.
+DR   PDB; 7SVC; NMR; -; A=147-180.
+DR   PDB; 7SWG; NMR; -; A=147-180.
+DR   PDB; 7SWI; NMR; -; A=147-180.
+DR   PDB; 7SXC; NMR; -; A=147-180.
+DR   PDB; 7SXD; NMR; -; A=147-180.
+DR   PDB; 7UH9; NMR; -; A=139-164.
+DR   PDB; 7UHA; NMR; -; A=139-164.
+DR   PDB; 7UTI; EM; 4.80 A; V/a=1-210.
+DR   PDB; 7UTL; EM; 6.60 A; V/c=1-210.
+DR   PDB; 8DZV; X-ray; 1.20 A; C=40-52.
+DR   PDB; 8FMM; X-ray; 3.11 A; C/F=32-166.
+DR   PDB; 8FMN; X-ray; 3.10 A; C/F=32-166.
+DR   PDB; 8FMO; X-ray; 2.61 A; C/F=32-166.
+DR   PDB; 8FMP; X-ray; 3.24 A; C/F=32-166.
+DR   PDB; 8FMQ; X-ray; 3.25 A; C/F=32-166.
+DR   PDB; 8FMR; X-ray; 3.24 A; C/F=32-166.
+DR   PDB; 8FMS; X-ray; 3.44 A; C/F=32-166.
+DR   PDB; 8FMT; X-ray; 2.80 A; C/F=32-166.
+DR   PDBsum; 1J1D; -.
+DR   PDBsum; 1J1E; -.
+DR   PDBsum; 1LXF; -.
+DR   PDBsum; 1MXL; -.
+DR   PDBsum; 1OZS; -.
+DR   PDBsum; 2KGB; -.
+DR   PDBsum; 2KRD; -.
+DR   PDBsum; 2L1R; -.
+DR   PDBsum; 2MZP; -.
+DR   PDBsum; 2N7L; -.
+DR   PDBsum; 4Y99; -.
+DR   PDBsum; 5VLN; -.
+DR   PDBsum; 5W88; -.
+DR   PDBsum; 5WCL; -.
+DR   PDBsum; 6KN7; -.
+DR   PDBsum; 6KN8; -.
+DR   PDBsum; 6MV3; -.
+DR   PDBsum; 7JGI; -.
+DR   PDBsum; 7SC2; -.
+DR   PDBsum; 7SC3; -.
+DR   PDBsum; 7SUP; -.
+DR   PDBsum; 7SVC; -.
+DR   PDBsum; 7SWG; -.
+DR   PDBsum; 7SWI; -.
+DR   PDBsum; 7SXC; -.
+DR   PDBsum; 7SXD; -.
+DR   PDBsum; 7UH9; -.
+DR   PDBsum; 7UHA; -.
+DR   PDBsum; 7UTI; -.
+DR   PDBsum; 7UTL; -.
+DR   PDBsum; 8DZV; -.
+DR   PDBsum; 8FMM; -.
+DR   PDBsum; 8FMN; -.
+DR   PDBsum; 8FMO; -.
+DR   PDBsum; 8FMP; -.
+DR   PDBsum; 8FMQ; -.
+DR   PDBsum; 8FMR; -.
+DR   PDBsum; 8FMS; -.
+DR   PDBsum; 8FMT; -.
+DR   AlphaFoldDB; P19429; -.
+DR   BMRB; P19429; -.
+DR   EMDB; EMD-0728; -.
+DR   EMDB; EMD-0729; -.
+DR   SMR; P19429; -.
+DR   BioGRID; 112991; 21.
+DR   ComplexPortal; CPX-3280; Cardiac Troponin complex.
+DR   CORUM; P19429; -.
+DR   DIP; DIP-34065N; -.
+DR   FunCoup; P19429; 388.
+DR   IntAct; P19429; 23.
+DR   MINT; P19429; -.
+DR   NDEx; IQUERY-CP-TNNI3; 2 NDEx IQuery Curated Pathways.
+DR   STRING; 9606.ENSP00000341838; -.
+DR   ChEMBL; CHEMBL2095202; -.
+DR   DrugBank; DB04513; N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide.
+DR   GlyGen; P19429; 1 site, 1 O-linked glycan (1 site).
+DR   iPTMnet; P19429; -.
+DR   PhosphoSitePlus; P19429; -.
+DR   BioMuta; TNNI3; -.
+DR   DMDM; 136213; -.
+DR   MassIVE; P19429; -.
+DR   PaxDb; 9606-ENSP00000341838; -.
+DR   PeptideAtlas; P19429; -.
+DR   ProteomicsDB; 53658; -.
+DR   ABCD; P19429; 8 sequenced antibodies.
+DR   Antibodypedia; 4354; 2652 antibodies from 54 providers.
+DR   CPTC; P19429; 1 antibody.
+DR   DNASU; 7137; -.
+DR   Ensembl; ENST00000344887.10; ENSP00000341838.5; ENSG00000129991.15.
+DR   GeneID; 7137; -.
+DR   KEGG; hsa:7137; -.
+DR   MANE-Select; ENST00000344887.10; ENSP00000341838.5; NM_000363.5; NP_000354.4.
+DR   AGR; HGNC:11947; -.
+DR   ClinPGx; PA36636; -.
+DR   CTD; 7137; -.
+DR   DisGeNET; 7137; -.
+DR   GeneCards; TNNI3; -.
+DR   GeneReviews; TNNI3; -.
+DR   HGNC; HGNC:11947; TNNI3.
+DR   HPA; ENSG00000129991; Tissue enriched (heart).
+DR   MalaCards; TNNI3; -.
+DR   MIM; 115210; phenotype.
+DR   MIM; 191044; gene.
+DR   MIM; 611880; phenotype.
+DR   MIM; 613286; phenotype.
+DR   MIM; 613690; phenotype.
+DR   OpenTargets; ENSG00000129991; -.
+DR   Orphanet; 154; Familial isolated dilated cardiomyopathy.
+DR   Orphanet; 75249; Familial isolated restrictive cardiomyopathy.
+DR   VEuPathDB; HostDB:ENSG00000129991; -.
+DR   eggNOG; KOG3977; Eukaryota.
+DR   GeneTree; ENSGT01030000234588; -.
+DR   InParanoid; P19429; -.
+DR   OrthoDB; 371899at2759; -.
+DR   PAN-GO; P19429; 3 GO annotations based on evolutionary models.
+DR   PhylomeDB; P19429; -.
+DR   PathwayCommons; P19429; -.
+DR   Reactome; R-HSA-390522; Striated Muscle Contraction.
+DR   Reactome; R-HSA-5578775; Ion homeostasis.
+DR   SignaLink; P19429; -.
+DR   SIGNOR; P19429; -.
+DR   Agora; ENSG00000129991; -.
+DR   BioGRID-ORCS; 7137; 18 hits in 1156 CRISPR screens.
+DR   ChiTaRS; TNNI3; human.
+DR   EvolutionaryTrace; P19429; -.
+DR   GeneWiki; TNNI3; -.
+DR   GenomeRNAi; 7137; -.
+DR   Pharos; P19429; Tbio.
+DR   PRO; PR:P19429; -.
+DR   Proteomes; UP000005640; Chromosome 19.
+DR   RNAct; P19429; protein.
+DR   Bgee; ENSG00000129991; Expressed in apex of heart and 101 other cell types or tissues.
+DR   ExpressionAtlas; P19429; baseline and differential.
+DR   GO; GO:0097512; C:cardiac myofibril; IMP:CAFA.
+DR   GO; GO:1990584; C:cardiac Troponin complex; IMP:CAFA.
+DR   GO; GO:0005829; C:cytosol; TAS:Reactome.
+DR   GO; GO:0030017; C:sarcomere; TAS:BHF-UCL.
+DR   GO; GO:0005861; C:troponin complex; IDA:UniProtKB.
+DR   GO; GO:0003779; F:actin binding; IDA:UniProtKB.
+DR   GO; GO:0051015; F:actin filament binding; IPI:CAFA.
+DR   GO; GO:0019855; F:calcium channel inhibitor activity; IPI:UniProtKB.
+DR   GO; GO:0048306; F:calcium-dependent protein binding; IPI:UniProtKB.
+DR   GO; GO:0019904; F:protein domain specific binding; IPI:UniProtKB.
+DR   GO; GO:0019901; F:protein kinase binding; IPI:UniProtKB.
+DR   GO; GO:0030172; F:troponin C binding; IPI:UniProtKB.
+DR   GO; GO:0031014; F:troponin T binding; IPI:UniProtKB.
+DR   GO; GO:0060048; P:cardiac muscle contraction; IMP:UniProtKB.
+DR   GO; GO:0060047; P:heart contraction; IMP:UniProtKB.
+DR   GO; GO:0007507; P:heart development; ISS:UniProtKB.
+DR   GO; GO:0006874; P:intracellular calcium ion homeostasis; ISS:UniProtKB.
+DR   GO; GO:0030049; P:muscle filament sliding; NAS:ComplexPortal.
+DR   GO; GO:0032780; P:negative regulation of ATP-dependent activity; IDA:UniProtKB.
+DR   GO; GO:0010882; P:regulation of cardiac muscle contraction by calcium ion signaling; IMP:CAFA.
+DR   GO; GO:0006940; P:regulation of smooth muscle contraction; IEA:Ensembl.
+DR   GO; GO:0001980; P:regulation of systemic arterial blood pressure by ischemic conditions; ISS:UniProtKB.
+DR   GO; GO:0003009; P:skeletal muscle contraction; IBA:GO_Central.
+DR   GO; GO:0001570; P:vasculogenesis; ISS:UniProtKB.
+DR   GO; GO:0055010; P:ventricular cardiac muscle tissue morphogenesis; IMP:HGNC-UCL.
+DR   DisProt; DP00166; -.
+DR   FunFam; 1.20.5.350:FF:000002; troponin I, fast skeletal muscle; 1.
+DR   Gene3D; 1.20.5.350; -; 1.
+DR   Gene3D; 6.10.250.180; -; 1.
+DR   InterPro; IPR001978; Troponin.
+DR   InterPro; IPR021666; Troponin-I_N.
+DR   InterPro; IPR050875; Troponin_I.
+DR   InterPro; IPR038077; Troponin_sf.
+DR   PANTHER; PTHR13738; TROPONIN I; 1.
+DR   PANTHER; PTHR13738:SF2; TROPONIN I, CARDIAC MUSCLE; 1.
+DR   Pfam; PF00992; Troponin; 1.
+DR   Pfam; PF11636; Troponin-I_N; 1.
+DR   SUPFAM; SSF90250; Troponin coil-coiled subunits; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Acetylation; Actin-binding; Cardiomyopathy;
+KW   Direct protein sequencing; Disease variant; Muscle protein; Phosphoprotein;
+KW   Proteomics identification; Reference proteome.
+FT   INIT_MET        1
+FT                   /note="Removed"
+FT                   /evidence="ECO:0000269|PubMed:2226863"
+FT   CHAIN           2..210
+FT                   /note="Troponin I, cardiac muscle"
+FT                   /id="PRO_0000186151"
+FT   REGION          1..43
+FT                   /note="Disordered"
+FT                   /evidence="ECO:0000256|SAM:MobiDB-lite"
+FT   REGION          32..79
+FT                   /note="Involved in binding TNC"
+FT   REGION          129..149
+FT                   /note="Involved in binding TNC and actin"
+FT   SITE            80
+FT                   /note="Involved in TNI-TNT interactions"
+FT   SITE            97
+FT                   /note="Involved in TNI-TNT interactions"
+FT   MOD_RES         2
+FT                   /note="N-acetylalanine"
+FT                   /evidence="ECO:0000269|PubMed:2226863"
+FT   MOD_RES         5
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:22972900"
+FT   MOD_RES         6
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:22972900"
+FT   MOD_RES         23
+FT                   /note="Phosphoserine; by PKA and PKD/PRKD1"
+FT                   /evidence="ECO:0000269|PubMed:15514163,
+FT                   ECO:0000269|PubMed:2226863, ECO:0000269|PubMed:22972900,
+FT                   ECO:0000269|PubMed:9346285"
+FT   MOD_RES         24
+FT                   /note="Phosphoserine; by PKA and PKD/PRKD1"
+FT                   /evidence="ECO:0000269|PubMed:15514163,
+FT                   ECO:0000269|PubMed:2226863, ECO:0000269|PubMed:22972900,
+FT                   ECO:0000269|PubMed:9346285"
+FT   MOD_RES         26
+FT                   /note="Phosphotyrosine"
+FT                   /evidence="ECO:0000269|PubMed:22972900"
+FT   MOD_RES         31
+FT                   /note="Phosphothreonine; by STK4/MST1"
+FT                   /evidence="ECO:0000269|PubMed:18986304"
+FT   MOD_RES         42
+FT                   /note="Phosphoserine; by PKC/PRKCE"
+FT                   /evidence="ECO:0000250|UniProtKB:P48787"
+FT   MOD_RES         44
+FT                   /note="Phosphoserine; by PKC/PRKCE"
+FT                   /evidence="ECO:0000250|UniProtKB:P48787"
+FT   MOD_RES         51
+FT                   /note="Phosphothreonine; by STK4/MST1"
+FT                   /evidence="ECO:0000269|PubMed:18986304,
+FT                   ECO:0000269|PubMed:22972900"
+FT   MOD_RES         77
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:22972900"
+FT   MOD_RES         78
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:22972900"
+FT   MOD_RES         129
+FT                   /note="Phosphothreonine; by STK4/MST1"
+FT                   /evidence="ECO:0000269|PubMed:18986304"
+FT   MOD_RES         143
+FT                   /note="Phosphothreonine; by STK4/MST1"
+FT                   /evidence="ECO:0000269|PubMed:18986304,
+FT                   ECO:0000269|PubMed:22972900"
+FT   MOD_RES         150
+FT                   /note="Phosphoserine; by PAK3"
+FT                   /evidence="ECO:0000269|PubMed:12242269"
+FT   MOD_RES         166
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:22972900"
+FT   MOD_RES         181
+FT                   /note="Phosphothreonine"
+FT                   /evidence="ECO:0000269|PubMed:22972900"
+FT   MOD_RES         199
+FT                   /note="Phosphoserine"
+FT                   /evidence="ECO:0000269|PubMed:22972900"
+FT   VARIANT         2
+FT                   /note="A -> V (in CMD2A; dbSNP:rs397516359)"
+FT                   /evidence="ECO:0000269|PubMed:15070570"
+FT                   /id="VAR_043989"
+FT   VARIANT         36
+FT                   /note="K -> Q (in CMD1FF; dbSNP:rs267607130)"
+FT                   /evidence="ECO:0000269|PubMed:19590045"
+FT                   /id="VAR_063548"
+FT   VARIANT         79
+FT                   /note="R -> C (in dbSNP:rs3729712)"
+FT                   /id="VAR_029453"
+FT   VARIANT         82
+FT                   /note="P -> S (risk factor for CMH7; dbSNP:rs77615401)"
+FT                   /evidence="ECO:0000269|PubMed:11815426"
+FT                   /id="VAR_016078"
+FT   VARIANT         116
+FT                   /note="A -> G (in CMD1FF; dbSNP:rs777177571)"
+FT                   /evidence="ECO:0000269|PubMed:21846512"
+FT                   /id="VAR_067264"
+FT   VARIANT         141
+FT                   /note="R -> Q (in CMH7; dbSNP:rs397516347)"
+FT                   /evidence="ECO:0000269|PubMed:12707239"
+FT                   /id="VAR_019872"
+FT   VARIANT         144
+FT                   /note="L -> Q (in RCM1; dbSNP:rs121917760)"
+FT                   /evidence="ECO:0000269|PubMed:12531876"
+FT                   /id="VAR_016079"
+FT   VARIANT         145
+FT                   /note="R -> G (in CMH7; dbSNP:rs104894724)"
+FT                   /evidence="ECO:0000269|PubMed:9241277"
+FT                   /id="VAR_007603"
+FT   VARIANT         145
+FT                   /note="R -> W (in RCM1; dbSNP:rs104894724)"
+FT                   /evidence="ECO:0000269|PubMed:12531876"
+FT                   /id="VAR_016080"
+FT   VARIANT         157
+FT                   /note="A -> V (in CMH7; dbSNP:rs397516353)"
+FT                   /evidence="ECO:0000269|PubMed:12707239"
+FT                   /id="VAR_019873"
+FT   VARIANT         162
+FT                   /note="R -> P (in CMH7; dbSNP:rs397516354)"
+FT                   /evidence="ECO:0000269|PubMed:12707239,
+FT                   ECO:0000269|PubMed:16199542"
+FT                   /id="VAR_019874"
+FT   VARIANT         162
+FT                   /note="R -> Q (in CMH7; dbSNP:rs397516354)"
+FT                   /evidence="ECO:0000269|PubMed:16199542"
+FT                   /id="VAR_042745"
+FT   VARIANT         166
+FT                   /note="S -> F (in CMH7; dbSNP:rs727504242)"
+FT                   /evidence="ECO:0000269|PubMed:12974739"
+FT                   /id="VAR_029454"
+FT   VARIANT         171
+FT                   /note="A -> T (in RCM1; dbSNP:rs121917761)"
+FT                   /evidence="ECO:0000269|PubMed:12531876"
+FT                   /id="VAR_016081"
+FT   VARIANT         177
+FT                   /note="Missing (in CMH7)"
+FT                   /evidence="ECO:0000269|PubMed:12707239"
+FT                   /id="VAR_019875"
+FT   VARIANT         178
+FT                   /note="K -> E (in RCM1; dbSNP:rs104894730)"
+FT                   /evidence="ECO:0000269|PubMed:12531876"
+FT                   /id="VAR_016082"
+FT   VARIANT         185
+FT                   /note="N -> K (in CMD1FF; dbSNP:rs267607129)"
+FT                   /evidence="ECO:0000269|PubMed:19590045"
+FT                   /id="VAR_063549"
+FT   VARIANT         186
+FT                   /note="R -> Q (in CMH7; dbSNP:rs397516357)"
+FT                   /evidence="ECO:0000269|PubMed:12707239"
+FT                   /id="VAR_019876"
+FT   VARIANT         190
+FT                   /note="D -> H (in CMH7 and RCM1)"
+FT                   /evidence="ECO:0000269|PubMed:12531876"
+FT                   /id="VAR_016083"
+FT   VARIANT         192
+FT                   /note="R -> H (in RCM1; dbSNP:rs104894729)"
+FT                   /evidence="ECO:0000269|PubMed:12531876"
+FT                   /id="VAR_016084"
+FT   VARIANT         196
+FT                   /note="D -> N (in CMH7; dbSNP:rs104894727)"
+FT                   /evidence="ECO:0000269|PubMed:11815426,
+FT                   ECO:0000269|PubMed:12707239"
+FT                   /id="VAR_016085"
+FT   VARIANT         204
+FT                   /note="R -> H (in CMH7; dbSNP:rs727504275)"
+FT                   /evidence="ECO:0000269|PubMed:16199542"
+FT                   /id="VAR_042746"
+FT   VARIANT         206
+FT                   /note="K -> Q (in CMH7; dbSNP:rs104894725)"
+FT                   /evidence="ECO:0000269|PubMed:9241277"
+FT                   /id="VAR_007604"
+FT   HELIX           35..37
+FT                   /evidence="ECO:0007829|PDB:4Y99"
+FT   HELIX           43..50
+FT                   /evidence="ECO:0007829|PDB:8DZV"
+FT   HELIX           59..79
+FT                   /evidence="ECO:0007829|PDB:8FMM"
+FT   HELIX           81..83
+FT                   /evidence="ECO:0007829|PDB:4Y99"
+FT   HELIX           85..87
+FT                   /evidence="ECO:0007829|PDB:1J1E"
+FT   HELIX           90..136
+FT                   /evidence="ECO:0007829|PDB:4Y99"
+FT   HELIX           140..159
+FT                   /evidence="ECO:0007829|PDB:7SC2"
+FT   HELIX           160..162
+FT                   /evidence="ECO:0007829|PDB:4Y99"
+FT   HELIX           163..188
+FT                   /evidence="ECO:0007829|PDB:1J1E"
+SQ   SEQUENCE   210 AA;  24008 MW;  20A804F8C24AE1B0 CRC64;
+     MADGSSDAAR EPRPAPAPIR RRSSNYRAYA TEPHAKKKSK ISASRKLQLK TLLLQIAKQE
+     LEREAEERRG EKGRALSTRC QPLELAGLGF AELQDLCRQL HARVDKVDEE RYDIEAKVTK
+     NITEIADLTQ KIFDLRGKFK RPTLRRVRIS ADAMMQALLG ARAKESLDLR AHLKQVKKED
+     TEKENREVGD WRKNIDALSG MEGRKKKFES
+//

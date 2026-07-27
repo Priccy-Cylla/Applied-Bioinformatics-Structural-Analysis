@@ -1,0 +1,1644 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/docs/uniprot.xsd">
+<entry xmlns="http://uniprot.org/uniprot" dataset="Swiss-Prot" created="1991-02-01" modified="2026-06-10" version="229">
+<accession>P19429</accession>
+<name>TNNI3_HUMAN</name>
+<protein>
+<recommendedName>
+<fullName>Troponin I, cardiac muscle</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Cardiac troponin I</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">TNNI3</name>
+<name type="synonym">TNNC1</name>
+</gene>
+<organism>
+<name type="scientific">Homo sapiens</name>
+<name type="common">Human</name>
+<dbReference type="NCBI Taxonomy" id="9606"/>
+<lineage>
+<taxon>Eukaryota</taxon>
+<taxon>Metazoa</taxon>
+<taxon>Chordata</taxon>
+<taxon>Craniata</taxon>
+<taxon>Vertebrata</taxon>
+<taxon>Euteleostomi</taxon>
+<taxon>Mammalia</taxon>
+<taxon>Eutheria</taxon>
+<taxon>Euarchontoglires</taxon>
+<taxon>Primates</taxon>
+<taxon>Haplorrhini</taxon>
+<taxon>Catarrhini</taxon>
+<taxon>Hominidae</taxon>
+<taxon>Homo</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="FEBS Lett." volume="270" first="57" last="61">
+<title>Molecular cloning of human cardiac troponin I using polymerase chain reaction.</title>
+<authorList>
+<person name="Vallins W.J."/>
+<person name="Brand N.J."/>
+<person name="Dabhade N."/>
+<person name="Butler-Browne G."/>
+<person name="Yacoub M.H."/>
+<person name="Barton P.J.R."/>
+</authorList>
+<dbReference type="PubMed" id="2226790"/>
+<dbReference type="DOI" id="10.1016/0014-5793(90)81234-f"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+<source>
+<tissue>Heart muscle</tissue>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1993" name="Gene" volume="131" first="287" last="292">
+<title>Cloning and expression in Escherichia coli of the cDNA encoding human cardiac troponin I.</title>
+<authorList>
+<person name="Armour K.L."/>
+<person name="Harris W.J."/>
+<person name="Tempest P.R."/>
+</authorList>
+<dbReference type="PubMed" id="8406024"/>
+<dbReference type="DOI" id="10.1016/0378-1119(93)90308-p"/>
+</citation>
+<scope>SEQUENCE REVISION TO 85</scope>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1991" name="Circ. Res." volume="69" first="1409" last="1414">
+<title>Troponin I isoform expression in human heart.</title>
+<authorList>
+<person name="Hunkeler N.M."/>
+<person name="Kullman J."/>
+<person name="Murphy A.M."/>
+</authorList>
+<dbReference type="PubMed" id="1934363"/>
+<dbReference type="DOI" id="10.1161/01.res.69.5.1409"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [MRNA]</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1996" name="Genomics" volume="35" first="11" last="23">
+<title>Isolation and characterization of the human cardiac troponin I gene (TNNI3).</title>
+<authorList>
+<person name="Bhavsar P.K."/>
+<person name="Brand N.J."/>
+<person name="Yacoub M.H."/>
+<person name="Barton P.J.R."/>
+</authorList>
+<dbReference type="PubMed" id="8661099"/>
+<dbReference type="DOI" id="10.1006/geno.1996.0317"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1990" name="FEBS Lett." volume="273" first="41" last="45">
+<title>A common motif of two adjacent phosphoserines in bovine, rabbit and human cardiac troponin I.</title>
+<authorList>
+<person name="Mittmann K."/>
+<person name="Jaquet K."/>
+<person name="Heilmeyer L.M.G. Jr."/>
+</authorList>
+<dbReference type="PubMed" id="2226863"/>
+<dbReference type="DOI" id="10.1016/0014-5793(90)81046-q"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 11-36</scope>
+<scope>ACETYLATION AT ALA-2</scope>
+<scope>PHOSPHORYLATION AT SER-23 AND SER-24</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1997" name="Eur. J. Biochem." volume="248" first="329" last="337">
+<title>The ordered phosphorylation of cardiac troponin I by the cAMP-dependent protein kinase -- structural consequences and functional implications.</title>
+<authorList>
+<person name="Keane N.E."/>
+<person name="Quirk P.G."/>
+<person name="Gao Y."/>
+<person name="Patchell V.B."/>
+<person name="Perry S.V."/>
+<person name="Levine B.A."/>
+</authorList>
+<dbReference type="PubMed" id="9346285"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1997.00329.x"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-23 AND SER-24</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2002" name="Circ. Res." volume="91" first="509" last="516">
+<title>p21-activated kinase increases the calcium sensitivity of rat triton-skinned cardiac muscle fiber bundles via a mechanism potentially involving novel phosphorylation of troponin I.</title>
+<authorList>
+<person name="Buscemi N."/>
+<person name="Foster D.B."/>
+<person name="Neverova I."/>
+<person name="Van Eyk J.E."/>
+</authorList>
+<dbReference type="PubMed" id="12242269"/>
+<dbReference type="DOI" id="10.1161/01.res.0000035246.27856.53"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-150 BY PAK3</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2004" name="Circ. Res." volume="95" first="1091" last="1099">
+<title>Protein kinase D is a novel mediator of cardiac troponin I phosphorylation and regulates myofilament function.</title>
+<authorList>
+<person name="Haworth R.S."/>
+<person name="Cuello F."/>
+<person name="Herron T.J."/>
+<person name="Franzen G."/>
+<person name="Kentish J.C."/>
+<person name="Gautel M."/>
+<person name="Avkiran M."/>
+</authorList>
+<dbReference type="PubMed" id="15514163"/>
+<dbReference type="DOI" id="10.1161/01.res.0000149299.34793.3c"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-23 AND SER-24</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2004" name="Proc. Natl. Acad. Sci. U.S.A." volume="101" first="18135" last="18140">
+<title>Muscle-specific RING finger 1 is a bona fide ubiquitin ligase that degrades cardiac troponin I.</title>
+<authorList>
+<person name="Kedar V."/>
+<person name="McDonough H."/>
+<person name="Arya R."/>
+<person name="Li H.-H."/>
+<person name="Rockman H.A."/>
+<person name="Patterson C."/>
+</authorList>
+<dbReference type="PubMed" id="15601779"/>
+<dbReference type="DOI" id="10.1073/pnas.0404341102"/>
+</citation>
+<scope>INTERACTION WITH TRIM63</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2009" name="Biochem. J." volume="418" first="93" last="101">
+<title>Phosphorylation of cardiac troponin I by mammalian sterile 20-like kinase 1.</title>
+<authorList>
+<person name="You B."/>
+<person name="Yan G."/>
+<person name="Zhang Z."/>
+<person name="Yan L."/>
+<person name="Li J."/>
+<person name="Ge Q."/>
+<person name="Jin J.P."/>
+<person name="Sun J."/>
+</authorList>
+<dbReference type="PubMed" id="18986304"/>
+<dbReference type="DOI" id="10.1042/bj20081340"/>
+</citation>
+<scope>INTERACTION WITH STK4/MST1</scope>
+<scope>PHOSPHORYLATION AT THR-31; THR-51; THR-129 AND THR-143</scope>
+</reference>
+<reference key="11">
+<citation type="journal article" date="2012" name="Circulation" volume="126" first="1828" last="1837">
+<title>Multiple reaction monitoring to identify site-specific troponin I phosphorylated residues in the failing human heart.</title>
+<authorList>
+<person name="Zhang P."/>
+<person name="Kirk J.A."/>
+<person name="Ji W."/>
+<person name="dos Remedios C.G."/>
+<person name="Kass D.A."/>
+<person name="Van Eyk J.E."/>
+<person name="Murphy A.M."/>
+</authorList>
+<dbReference type="PubMed" id="22972900"/>
+<dbReference type="DOI" id="10.1161/circulationaha.112.096388"/>
+</citation>
+<scope>PHOSPHORYLATION AT SER-5; SER-6; SER-23; SER-24; TYR-26; SER-42; SER-44; THR-51; SER-77; THR-78; THR-143; SER-166; THR-181 AND SER-199</scope>
+</reference>
+<reference key="12">
+<citation type="journal article" date="1999" name="Biochemistry" volume="38" first="8289" last="8298">
+<title>Binding of cardiac troponin-I147-163 induces a structural opening in human cardiac troponin-C.</title>
+<authorList>
+<person name="Li M.X."/>
+<person name="Spyracopoulos L."/>
+<person name="Sykes B.D."/>
+</authorList>
+<dbReference type="PubMed" id="10387074"/>
+<dbReference type="DOI" id="10.1021/bi9901679"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 148-164</scope>
+</reference>
+<reference key="13">
+<citation type="journal article" date="2002" name="J. Biol. Chem." volume="277" first="31124" last="31133">
+<title>Structure of the regulatory N-domain of human cardiac troponin C in complex with human cardiac troponin I147-163 and bepridil.</title>
+<authorList>
+<person name="Wang X."/>
+<person name="Li M.X."/>
+<person name="Sykes B.D."/>
+</authorList>
+<dbReference type="PubMed" id="12060657"/>
+<dbReference type="DOI" id="10.1074/jbc.m203896200"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 149-165 IN COMPLEX WITH CARDIAC TROPONIN C</scope>
+</reference>
+<reference key="14">
+<citation type="journal article" date="1997" name="Nat. Genet." volume="16" first="379" last="382">
+<title>Mutations in the cardiac troponin I gene associated with hypertrophic cardiomyopathy.</title>
+<authorList>
+<person name="Kimura A."/>
+<person name="Harada H."/>
+<person name="Park J.-E."/>
+<person name="Nishi H."/>
+<person name="Satoh M."/>
+<person name="Takahashi M."/>
+<person name="Hiroi S."/>
+<person name="Sasaoka T."/>
+<person name="Ohbuchi N."/>
+<person name="Nakamura T."/>
+<person name="Koyanagi T."/>
+<person name="Hwang T.-H."/>
+<person name="Choo J."/>
+<person name="Chung K.-S."/>
+<person name="Hasegawa A."/>
+<person name="Nagai R."/>
+<person name="Okazaki O."/>
+<person name="Nakamura H."/>
+<person name="Matsuzaki M."/>
+<person name="Sakamoto T."/>
+<person name="Toshima H."/>
+<person name="Koga Y."/>
+<person name="Imaizumi T."/>
+<person name="Sasazuki T."/>
+</authorList>
+<dbReference type="PubMed" id="9241277"/>
+<dbReference type="DOI" id="10.1038/ng0897-379"/>
+</citation>
+<scope>VARIANTS CMH7 GLY-145 AND GLN-206</scope>
+</reference>
+<reference key="15">
+<citation type="journal article" date="2002" name="Circulation" volume="105" first="446" last="451">
+<title>Sarcomere protein gene mutations in hypertrophic cardiomyopathy of the elderly.</title>
+<authorList>
+<person name="Niimura H."/>
+<person name="Patton K.K."/>
+<person name="McKenna W.J."/>
+<person name="Soults J."/>
+<person name="Maron B.J."/>
+<person name="Seidman J.G."/>
+<person name="Seidman C.E."/>
+</authorList>
+<dbReference type="PubMed" id="11815426"/>
+<dbReference type="DOI" id="10.1161/hc0402.102990"/>
+</citation>
+<scope>VARIANT CMH7 ASN-196</scope>
+<scope>VARIANT SER-82</scope>
+</reference>
+<reference key="16">
+<citation type="journal article" date="2003" name="J. Clin. Invest." volume="111" first="209" last="216">
+<title>Idiopathic restrictive cardiomyopathy is part of the clinical expression of cardiac troponin I mutations.</title>
+<authorList>
+<person name="Mogensen J."/>
+<person name="Kubo T."/>
+<person name="Duque M."/>
+<person name="Uribe W."/>
+<person name="Shaw A."/>
+<person name="Murphy R."/>
+<person name="Gimeno J.R."/>
+<person name="Elliott P."/>
+<person name="McKenna W.J."/>
+</authorList>
+<dbReference type="PubMed" id="12531876"/>
+<dbReference type="DOI" id="10.1172/jci16336"/>
+</citation>
+<scope>VARIANTS RCM1 GLN-144; TRP-145; THR-171; GLU-178; HIS-190 AND HIS-192</scope>
+</reference>
+<reference key="17">
+<citation type="journal article" date="2003" name="Circulation" volume="107" first="2227" last="2232">
+<title>Hypertrophic cardiomyopathy: distribution of disease genes, spectrum of mutations, and implications for a molecular diagnosis strategy.</title>
+<authorList>
+<person name="Richard P."/>
+<person name="Charron P."/>
+<person name="Carrier L."/>
+<person name="Ledeuil C."/>
+<person name="Cheav T."/>
+<person name="Pichereau C."/>
+<person name="Benaiche A."/>
+<person name="Isnard R."/>
+<person name="Dubourg O."/>
+<person name="Burban M."/>
+<person name="Gueffet J.-P."/>
+<person name="Millaire A."/>
+<person name="Desnos M."/>
+<person name="Schwartz K."/>
+<person name="Hainque B."/>
+<person name="Komajda M."/>
+</authorList>
+<dbReference type="PubMed" id="12707239"/>
+<dbReference type="DOI" id="10.1161/01.cir.0000066323.15244.54"/>
+</citation>
+<scope>VARIANTS CMH7 GLN-141; VAL-157; PRO-162; LYS-177 DEL; GLN-186 AND ASN-196</scope>
+</reference>
+<reference key="18">
+<citation type="journal article" date="2004" name="Circulation" volume="109" first="3258" last="3258">
+<authorList>
+<person name="Richard P."/>
+<person name="Charron P."/>
+<person name="Carrier L."/>
+<person name="Ledeuil C."/>
+<person name="Cheav T."/>
+<person name="Pichereau C."/>
+<person name="Benaiche A."/>
+<person name="Isnard R."/>
+<person name="Dubourg O."/>
+<person name="Burban M."/>
+<person name="Gueffet J.-P."/>
+<person name="Millaire A."/>
+<person name="Desnos M."/>
+<person name="Schwartz K."/>
+<person name="Hainque B."/>
+<person name="Komajda M."/>
+</authorList>
+</citation>
+<scope>ERRATUM OF PUBMED:12707239</scope>
+</reference>
+<reference key="19">
+<citation type="journal article" date="2003" name="Clin. Genet." volume="64" first="339" last="349">
+<title>Mutation spectrum in a large cohort of unrelated consecutive patients with hypertrophic cardiomyopathy.</title>
+<authorList>
+<person name="Erdmann J."/>
+<person name="Daehmlow S."/>
+<person name="Wischke S."/>
+<person name="Senyuva M."/>
+<person name="Werner U."/>
+<person name="Raible J."/>
+<person name="Tanis N."/>
+<person name="Dyachenko S."/>
+<person name="Hummel M."/>
+<person name="Hetzer R."/>
+<person name="Regitz-Zagrosek V."/>
+</authorList>
+<dbReference type="PubMed" id="12974739"/>
+<dbReference type="DOI" id="10.1034/j.1399-0004.2003.00151.x"/>
+</citation>
+<scope>VARIANT CMH7 PHE-166</scope>
+</reference>
+<reference key="20">
+<citation type="journal article" date="2004" name="Lancet" volume="363" first="371" last="372">
+<title>Novel mutation in cardiac troponin I in recessive idiopathic dilated cardiomyopathy.</title>
+<authorList>
+<person name="Murphy R.T."/>
+<person name="Mogensen J."/>
+<person name="Shaw A."/>
+<person name="Kubo T."/>
+<person name="Hughes S."/>
+<person name="McKenna W.J."/>
+</authorList>
+<dbReference type="PubMed" id="15070570"/>
+<dbReference type="DOI" id="10.1016/s0140-6736(04)15468-8"/>
+</citation>
+<scope>VARIANT CMD2A VAL-2</scope>
+</reference>
+<reference key="21">
+<citation type="journal article" date="2005" name="J. Med. Genet." volume="42" first="E59" last="E59">
+<title>Compound and double mutations in patients with hypertrophic cardiomyopathy: implications for genetic testing and counselling.</title>
+<authorList>
+<person name="Ingles J."/>
+<person name="Doolan A."/>
+<person name="Chiu C."/>
+<person name="Seidman J."/>
+<person name="Seidman C."/>
+<person name="Semsarian C."/>
+</authorList>
+<dbReference type="PubMed" id="16199542"/>
+<dbReference type="DOI" id="10.1136/jmg.2005.033886"/>
+</citation>
+<scope>VARIANTS CMH7 PRO-162; GLN-162 AND HIS-204</scope>
+</reference>
+<reference key="22">
+<citation type="journal article" date="2009" name="Circ. Res." volume="105" first="375" last="382">
+<title>Identification and functional characterization of cardiac troponin I as a novel disease gene in autosomal dominant dilated cardiomyopathy.</title>
+<authorList>
+<person name="Carballo S."/>
+<person name="Robinson P."/>
+<person name="Otway R."/>
+<person name="Fatkin D."/>
+<person name="Jongbloed J.D."/>
+<person name="de Jonge N."/>
+<person name="Blair E."/>
+<person name="van Tintelen J.P."/>
+<person name="Redwood C."/>
+<person name="Watkins H."/>
+</authorList>
+<dbReference type="PubMed" id="19590045"/>
+<dbReference type="DOI" id="10.1161/circresaha.109.196055"/>
+</citation>
+<scope>VARIANTS CMD1FF GLN-36 AND LYS-185</scope>
+</reference>
+<reference key="23">
+<citation type="journal article" date="2011" name="Eur. J. Med. Genet." volume="54" first="E570" last="E575">
+<title>Clinical and mutational spectrum in a cohort of 105 unrelated patients with dilated cardiomyopathy.</title>
+<authorList>
+<person name="Millat G."/>
+<person name="Bouvagnet P."/>
+<person name="Chevalier P."/>
+<person name="Sebbag L."/>
+<person name="Dulac A."/>
+<person name="Dauphin C."/>
+<person name="Jouk P.S."/>
+<person name="Delrue M.A."/>
+<person name="Thambo J.B."/>
+<person name="Le Metayer P."/>
+<person name="Seronde M.F."/>
+<person name="Faivre L."/>
+<person name="Eicher J.C."/>
+<person name="Rousson R."/>
+</authorList>
+<dbReference type="PubMed" id="21846512"/>
+<dbReference type="DOI" id="10.1016/j.ejmg.2011.07.005"/>
+</citation>
+<scope>VARIANT CMD1FF GLY-116</scope>
+</reference>
+<comment type="function">
+<text>Troponin I is the inhibitory subunit of troponin, the thin filament regulatory complex which confers calcium-sensitivity to striated muscle actomyosin ATPase activity.</text>
+</comment>
+<comment type="subunit">
+<text evidence="5 12 14">Binds to actin and tropomyosin. Interacts with TRIM63. Interacts with STK4/MST1.</text>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-704146">
+<id>P19429</id>
+</interactant>
+<interactant intactId="EBI-10194381">
+<id>P05014</id>
+<label>IFNA4</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-704146">
+<id>P19429</id>
+</interactant>
+<interactant intactId="EBI-10769071">
+<id>Q5VU43-11</id>
+<label>PDE4DIP</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>4</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-704146">
+<id>P19429</id>
+</interactant>
+<interactant intactId="EBI-988601">
+<id>O43933</id>
+<label>PEX1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-704146">
+<id>P19429</id>
+</interactant>
+<interactant intactId="EBI-6912267">
+<id>A6NK89</id>
+<label>RASSF10</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-704146">
+<id>P19429</id>
+</interactant>
+<interactant intactId="EBI-10762111">
+<id>Q9UKA8-1</id>
+<label>RCAN3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-704146">
+<id>P19429</id>
+</interactant>
+<interactant intactId="EBI-10762136">
+<id>Q9UKA8-4</id>
+<label>RCAN3</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-704146">
+<id>P19429</id>
+</interactant>
+<interactant intactId="EBI-3906339">
+<id>P63316</id>
+<label>TNNC1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>5</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-704146">
+<id>P19429</id>
+</interactant>
+<interactant intactId="EBI-10249681">
+<id>P02585</id>
+<label>TNNC2</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-704146">
+<id>P19429</id>
+</interactant>
+<interactant intactId="EBI-704142">
+<id>Q59H18</id>
+<label>TNNI3K</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-704146">
+<id>P19429</id>
+</interactant>
+<interactant intactId="EBI-10762055">
+<id>Q59H18-2</id>
+<label>TNNI3K</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>2</experiments>
+</comment>
+<comment type="interaction">
+<interactant intactId="EBI-704146">
+<id>P19429</id>
+</interactant>
+<interactant intactId="EBI-720609">
+<id>O76024</id>
+<label>WFS1</label>
+</interactant>
+<organismsDiffer>false</organismsDiffer>
+<experiments>3</experiments>
+</comment>
+<comment type="PTM">
+<text evidence="1 6 11 14 17 18 20">Phosphorylated at Ser-42 and Ser-44 by PRKCE; phosphorylation increases myocardium contractile dysfunction (By similarity). Phosphorylated at Ser-23 and Ser-24 by PRKD1; phosphorylation reduces myofilament calcium sensitivity. Phosphorylated preferentially at Thr-31. Phosphorylation by STK4/MST1 alters its binding affinity to TNNC1 (cardiac Tn-C) and TNNT2 (cardiac Tn-T).</text>
+</comment>
+<comment type="disease" evidence="4 8 9 13 19">
+<disease id="DI-00237">
+<name>Cardiomyopathy, familial hypertrophic, 7</name>
+<acronym>CMH7</acronym>
+<description>A hereditary heart disorder characterized by ventricular hypertrophy, which is usually asymmetric and often involves the interventricular septum. The symptoms include dyspnea, syncope, collapse, palpitations, and chest pain. They can be readily provoked by exercise. The disorder has inter- and intrafamilial variability ranging from benign to malignant forms with high risk of cardiac failure and sudden cardiac death.</description>
+<dbReference type="MIM" id="613690"/>
+</disease>
+<text>The disease is caused by variants affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="7">
+<disease id="DI-00246">
+<name>Cardiomyopathy, familial restrictive 1</name>
+<acronym>RCM1</acronym>
+<description>A heart disorder characterized by impaired filling of the ventricles with reduced diastolic volume, in the presence of normal or near normal wall thickness and systolic function.</description>
+<dbReference type="MIM" id="115210"/>
+</disease>
+<text>The disease is caused by variants affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="15 16">
+<disease id="DI-00229">
+<name>Cardiomyopathy, dilated, 2A</name>
+<acronym>CMD2A</acronym>
+<description>A disorder characterized by ventricular dilation and impaired systolic function, resulting in congestive heart failure and arrhythmia. Patients are at risk of premature death.</description>
+<dbReference type="MIM" id="611880"/>
+</disease>
+<text>The disease is caused by variants affecting the gene represented in this entry.</text>
+</comment>
+<comment type="disease" evidence="15 16">
+<disease id="DI-02681">
+<name>Cardiomyopathy, dilated, 1FF</name>
+<acronym>CMD1FF</acronym>
+<description>A disorder characterized by ventricular dilation and impaired systolic function, resulting in congestive heart failure and arrhythmia. Patients are at risk of premature death.</description>
+<dbReference type="MIM" id="613286"/>
+</disease>
+<text>The disease is caused by variants affecting the gene represented in this entry.</text>
+</comment>
+<comment type="similarity">
+<text evidence="21">Belongs to the troponin I family.</text>
+</comment>
+<dbReference type="EMBL" id="X54163">
+<property type="protein sequence ID" value="CAA38102.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="M64247">
+<property type="protein sequence ID" value="AAA16157.1"/>
+<property type="molecule type" value="mRNA"/>
+</dbReference>
+<dbReference type="EMBL" id="X90780">
+<property type="protein sequence ID" value="CAA62301.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="CCDS" id="CCDS42628.1"/>
+<dbReference type="PIR" id="A61229">
+<property type="entry name" value="TPHUIC"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_000354.4">
+<property type="nucleotide sequence ID" value="NM_000363.4"/>
+</dbReference>
+<dbReference type="PDB" id="1J1D">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.61 A"/>
+<property type="chains" value="C/F=31-163"/>
+</dbReference>
+<dbReference type="PDB" id="1J1E">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30 A"/>
+<property type="chains" value="C/F=31-210"/>
+</dbReference>
+<dbReference type="PDB" id="1LXF">
+<property type="method" value="NMR"/>
+<property type="chains" value="I=148-164"/>
+</dbReference>
+<dbReference type="PDB" id="1MXL">
+<property type="method" value="NMR"/>
+<property type="chains" value="I=148-164"/>
+</dbReference>
+<dbReference type="PDB" id="1OZS">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=129-148"/>
+</dbReference>
+<dbReference type="PDB" id="2KGB">
+<property type="method" value="NMR"/>
+<property type="chains" value="I=145-164"/>
+</dbReference>
+<dbReference type="PDB" id="2KRD">
+<property type="method" value="NMR"/>
+<property type="chains" value="I=148-164"/>
+</dbReference>
+<dbReference type="PDB" id="2L1R">
+<property type="method" value="NMR"/>
+<property type="chains" value="B=145-164"/>
+</dbReference>
+<dbReference type="PDB" id="2MZP">
+<property type="method" value="NMR"/>
+<property type="chains" value="I=145-171"/>
+</dbReference>
+<dbReference type="PDB" id="2N7L">
+<property type="method" value="NMR"/>
+<property type="chains" value="C=145-174"/>
+</dbReference>
+<dbReference type="PDB" id="4Y99">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.00 A"/>
+<property type="chains" value="C=1-210"/>
+</dbReference>
+<dbReference type="PDB" id="5VLN">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=139-164"/>
+</dbReference>
+<dbReference type="PDB" id="5W88">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=133-164"/>
+</dbReference>
+<dbReference type="PDB" id="5WCL">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=139-164"/>
+</dbReference>
+<dbReference type="PDB" id="6KN7">
+<property type="method" value="EM"/>
+<property type="resolution" value="6.60 A"/>
+<property type="chains" value="U/b=41-210"/>
+</dbReference>
+<dbReference type="PDB" id="6KN8">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.80 A"/>
+<property type="chains" value="U/b=41-166"/>
+</dbReference>
+<dbReference type="PDB" id="6MV3">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=139-164"/>
+</dbReference>
+<dbReference type="PDB" id="7JGI">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=139-164"/>
+</dbReference>
+<dbReference type="PDB" id="7SC2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.81 A"/>
+<property type="chains" value="A=139-164"/>
+</dbReference>
+<dbReference type="PDB" id="7SC3">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.23 A"/>
+<property type="chains" value="A=139-164"/>
+</dbReference>
+<dbReference type="PDB" id="7SUP">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=147-180"/>
+</dbReference>
+<dbReference type="PDB" id="7SVC">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=147-180"/>
+</dbReference>
+<dbReference type="PDB" id="7SWG">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=147-180"/>
+</dbReference>
+<dbReference type="PDB" id="7SWI">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=147-180"/>
+</dbReference>
+<dbReference type="PDB" id="7SXC">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=147-180"/>
+</dbReference>
+<dbReference type="PDB" id="7SXD">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=147-180"/>
+</dbReference>
+<dbReference type="PDB" id="7UH9">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=139-164"/>
+</dbReference>
+<dbReference type="PDB" id="7UHA">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=139-164"/>
+</dbReference>
+<dbReference type="PDB" id="7UTI">
+<property type="method" value="EM"/>
+<property type="resolution" value="4.80 A"/>
+<property type="chains" value="V/a=1-210"/>
+</dbReference>
+<dbReference type="PDB" id="7UTL">
+<property type="method" value="EM"/>
+<property type="resolution" value="6.60 A"/>
+<property type="chains" value="V/c=1-210"/>
+</dbReference>
+<dbReference type="PDB" id="8DZV">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.20 A"/>
+<property type="chains" value="C=40-52"/>
+</dbReference>
+<dbReference type="PDB" id="8FMM">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.11 A"/>
+<property type="chains" value="C/F=32-166"/>
+</dbReference>
+<dbReference type="PDB" id="8FMN">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.10 A"/>
+<property type="chains" value="C/F=32-166"/>
+</dbReference>
+<dbReference type="PDB" id="8FMO">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.61 A"/>
+<property type="chains" value="C/F=32-166"/>
+</dbReference>
+<dbReference type="PDB" id="8FMP">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.24 A"/>
+<property type="chains" value="C/F=32-166"/>
+</dbReference>
+<dbReference type="PDB" id="8FMQ">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.25 A"/>
+<property type="chains" value="C/F=32-166"/>
+</dbReference>
+<dbReference type="PDB" id="8FMR">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.24 A"/>
+<property type="chains" value="C/F=32-166"/>
+</dbReference>
+<dbReference type="PDB" id="8FMS">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.44 A"/>
+<property type="chains" value="C/F=32-166"/>
+</dbReference>
+<dbReference type="PDB" id="8FMT">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.80 A"/>
+<property type="chains" value="C/F=32-166"/>
+</dbReference>
+<dbReference type="PDBsum" id="1J1D"/>
+<dbReference type="PDBsum" id="1J1E"/>
+<dbReference type="PDBsum" id="1LXF"/>
+<dbReference type="PDBsum" id="1MXL"/>
+<dbReference type="PDBsum" id="1OZS"/>
+<dbReference type="PDBsum" id="2KGB"/>
+<dbReference type="PDBsum" id="2KRD"/>
+<dbReference type="PDBsum" id="2L1R"/>
+<dbReference type="PDBsum" id="2MZP"/>
+<dbReference type="PDBsum" id="2N7L"/>
+<dbReference type="PDBsum" id="4Y99"/>
+<dbReference type="PDBsum" id="5VLN"/>
+<dbReference type="PDBsum" id="5W88"/>
+<dbReference type="PDBsum" id="5WCL"/>
+<dbReference type="PDBsum" id="6KN7"/>
+<dbReference type="PDBsum" id="6KN8"/>
+<dbReference type="PDBsum" id="6MV3"/>
+<dbReference type="PDBsum" id="7JGI"/>
+<dbReference type="PDBsum" id="7SC2"/>
+<dbReference type="PDBsum" id="7SC3"/>
+<dbReference type="PDBsum" id="7SUP"/>
+<dbReference type="PDBsum" id="7SVC"/>
+<dbReference type="PDBsum" id="7SWG"/>
+<dbReference type="PDBsum" id="7SWI"/>
+<dbReference type="PDBsum" id="7SXC"/>
+<dbReference type="PDBsum" id="7SXD"/>
+<dbReference type="PDBsum" id="7UH9"/>
+<dbReference type="PDBsum" id="7UHA"/>
+<dbReference type="PDBsum" id="7UTI"/>
+<dbReference type="PDBsum" id="7UTL"/>
+<dbReference type="PDBsum" id="8DZV"/>
+<dbReference type="PDBsum" id="8FMM"/>
+<dbReference type="PDBsum" id="8FMN"/>
+<dbReference type="PDBsum" id="8FMO"/>
+<dbReference type="PDBsum" id="8FMP"/>
+<dbReference type="PDBsum" id="8FMQ"/>
+<dbReference type="PDBsum" id="8FMR"/>
+<dbReference type="PDBsum" id="8FMS"/>
+<dbReference type="PDBsum" id="8FMT"/>
+<dbReference type="AlphaFoldDB" id="P19429"/>
+<dbReference type="BMRB" id="P19429"/>
+<dbReference type="EMDB" id="EMD-0728"/>
+<dbReference type="EMDB" id="EMD-0729"/>
+<dbReference type="SMR" id="P19429"/>
+<dbReference type="BioGRID" id="112991">
+<property type="interactions" value="21"/>
+</dbReference>
+<dbReference type="ComplexPortal" id="CPX-3280">
+<property type="entry name" value="Cardiac Troponin complex"/>
+</dbReference>
+<dbReference type="CORUM" id="P19429"/>
+<dbReference type="DIP" id="DIP-34065N"/>
+<dbReference type="FunCoup" id="P19429">
+<property type="interactions" value="388"/>
+</dbReference>
+<dbReference type="IntAct" id="P19429">
+<property type="interactions" value="23"/>
+</dbReference>
+<dbReference type="MINT" id="P19429"/>
+<dbReference type="NDEx" id="IQUERY-CP-TNNI3">
+<property type="evidences" value="2 NDEx IQuery Curated Pathways"/>
+</dbReference>
+<dbReference type="STRING" id="9606.ENSP00000341838"/>
+<dbReference type="ChEMBL" id="CHEMBL2095202"/>
+<dbReference type="DrugBank" id="DB04513">
+<property type="generic name" value="N-(6-Aminohexyl)-5-Chloro-1-Naphthalenesulfonamide"/>
+</dbReference>
+<dbReference type="GlyGen" id="P19429">
+<property type="glycosylation" value="1 site, 1 O-linked glycan (1 site)"/>
+</dbReference>
+<dbReference type="iPTMnet" id="P19429"/>
+<dbReference type="PhosphoSitePlus" id="P19429"/>
+<dbReference type="BioMuta" id="TNNI3"/>
+<dbReference type="DMDM" id="136213"/>
+<dbReference type="MassIVE" id="P19429"/>
+<dbReference type="PaxDb" id="9606-ENSP00000341838"/>
+<dbReference type="PeptideAtlas" id="P19429"/>
+<dbReference type="ProteomicsDB" id="53658"/>
+<dbReference type="ABCD" id="P19429">
+<property type="antibodies" value="8 sequenced antibodies"/>
+</dbReference>
+<dbReference type="Antibodypedia" id="4354">
+<property type="antibodies" value="2652 antibodies from 54 providers"/>
+</dbReference>
+<dbReference type="CPTC" id="P19429">
+<property type="antibodies" value="1 antibody"/>
+</dbReference>
+<dbReference type="DNASU" id="7137"/>
+<dbReference type="Ensembl" id="ENST00000344887.10">
+<property type="protein sequence ID" value="ENSP00000341838.5"/>
+<property type="gene ID" value="ENSG00000129991.15"/>
+</dbReference>
+<dbReference type="GeneID" id="7137"/>
+<dbReference type="KEGG" id="hsa:7137"/>
+<dbReference type="MANE-Select" id="ENST00000344887.10">
+<property type="protein sequence ID" value="ENSP00000341838.5"/>
+<property type="RefSeq nucleotide sequence ID" value="NM_000363.5"/>
+<property type="RefSeq protein sequence ID" value="NP_000354.4"/>
+</dbReference>
+<dbReference type="AGR" id="HGNC:11947"/>
+<dbReference type="ClinPGx" id="PA36636"/>
+<dbReference type="CTD" id="7137"/>
+<dbReference type="DisGeNET" id="7137"/>
+<dbReference type="GeneCards" id="TNNI3"/>
+<dbReference type="GeneReviews" id="TNNI3"/>
+<dbReference type="HGNC" id="HGNC:11947">
+<property type="gene designation" value="TNNI3"/>
+</dbReference>
+<dbReference type="HPA" id="ENSG00000129991">
+<property type="expression patterns" value="Tissue enriched (heart)"/>
+</dbReference>
+<dbReference type="MalaCards" id="TNNI3"/>
+<dbReference type="MIM" id="115210">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="191044">
+<property type="type" value="gene"/>
+</dbReference>
+<dbReference type="MIM" id="611880">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="613286">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="MIM" id="613690">
+<property type="type" value="phenotype"/>
+</dbReference>
+<dbReference type="OpenTargets" id="ENSG00000129991"/>
+<dbReference type="Orphanet" id="154">
+<property type="disease" value="Familial isolated dilated cardiomyopathy"/>
+</dbReference>
+<dbReference type="Orphanet" id="75249">
+<property type="disease" value="Familial isolated restrictive cardiomyopathy"/>
+</dbReference>
+<dbReference type="VEuPathDB" id="HostDB:ENSG00000129991"/>
+<dbReference type="eggNOG" id="KOG3977">
+<property type="taxonomic scope" value="Eukaryota"/>
+</dbReference>
+<dbReference type="GeneTree" id="ENSGT01030000234588"/>
+<dbReference type="InParanoid" id="P19429"/>
+<dbReference type="OrthoDB" id="371899at2759"/>
+<dbReference type="PAN-GO" id="P19429">
+<property type="GO annotations" value="3 GO annotations based on evolutionary models"/>
+</dbReference>
+<dbReference type="PhylomeDB" id="P19429"/>
+<dbReference type="PathwayCommons" id="P19429"/>
+<dbReference type="Reactome" id="R-HSA-390522">
+<property type="pathway name" value="Striated Muscle Contraction"/>
+</dbReference>
+<dbReference type="Reactome" id="R-HSA-5578775">
+<property type="pathway name" value="Ion homeostasis"/>
+</dbReference>
+<dbReference type="SignaLink" id="P19429"/>
+<dbReference type="SIGNOR" id="P19429"/>
+<dbReference type="Agora" id="ENSG00000129991"/>
+<dbReference type="BioGRID-ORCS" id="7137">
+<property type="hits" value="18 hits in 1156 CRISPR screens"/>
+</dbReference>
+<dbReference type="ChiTaRS" id="TNNI3">
+<property type="organism name" value="human"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P19429"/>
+<dbReference type="GeneWiki" id="TNNI3"/>
+<dbReference type="GenomeRNAi" id="7137"/>
+<dbReference type="Pharos" id="P19429">
+<property type="development level" value="Tbio"/>
+</dbReference>
+<dbReference type="PRO" id="PR:P19429"/>
+<dbReference type="Proteomes" id="UP000005640">
+<property type="component" value="Chromosome 19"/>
+</dbReference>
+<dbReference type="RNAct" id="P19429">
+<property type="molecule type" value="protein"/>
+</dbReference>
+<dbReference type="Bgee" id="ENSG00000129991">
+<property type="expression patterns" value="Expressed in apex of heart and 101 other cell types or tissues"/>
+</dbReference>
+<dbReference type="ExpressionAtlas" id="P19429">
+<property type="expression patterns" value="baseline and differential"/>
+</dbReference>
+<dbReference type="GO" id="GO:0097512">
+<property type="term" value="C:cardiac myofibril"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:1990584">
+<property type="term" value="C:cardiac Troponin complex"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005829">
+<property type="term" value="C:cytosol"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="Reactome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030017">
+<property type="term" value="C:sarcomere"/>
+<property type="evidence" value="ECO:0000304"/>
+<property type="project" value="BHF-UCL"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005861">
+<property type="term" value="C:troponin complex"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003779">
+<property type="term" value="F:actin binding"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0051015">
+<property type="term" value="F:actin filament binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019855">
+<property type="term" value="F:calcium channel inhibitor activity"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0048306">
+<property type="term" value="F:calcium-dependent protein binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019904">
+<property type="term" value="F:protein domain specific binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019901">
+<property type="term" value="F:protein kinase binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030172">
+<property type="term" value="F:troponin C binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0031014">
+<property type="term" value="F:troponin T binding"/>
+<property type="evidence" value="ECO:0000353"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060048">
+<property type="term" value="P:cardiac muscle contraction"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0060047">
+<property type="term" value="P:heart contraction"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0007507">
+<property type="term" value="P:heart development"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006874">
+<property type="term" value="P:intracellular calcium ion homeostasis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0030049">
+<property type="term" value="P:muscle filament sliding"/>
+<property type="evidence" value="ECO:0000303"/>
+<property type="project" value="ComplexPortal"/>
+</dbReference>
+<dbReference type="GO" id="GO:0032780">
+<property type="term" value="P:negative regulation of ATP-dependent activity"/>
+<property type="evidence" value="ECO:0000314"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0010882">
+<property type="term" value="P:regulation of cardiac muscle contraction by calcium ion signaling"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="CAFA"/>
+</dbReference>
+<dbReference type="GO" id="GO:0006940">
+<property type="term" value="P:regulation of smooth muscle contraction"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="Ensembl"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001980">
+<property type="term" value="P:regulation of systemic arterial blood pressure by ischemic conditions"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0003009">
+<property type="term" value="P:skeletal muscle contraction"/>
+<property type="evidence" value="ECO:0000318"/>
+<property type="project" value="GO_Central"/>
+</dbReference>
+<dbReference type="GO" id="GO:0001570">
+<property type="term" value="P:vasculogenesis"/>
+<property type="evidence" value="ECO:0000250"/>
+<property type="project" value="UniProtKB"/>
+</dbReference>
+<dbReference type="GO" id="GO:0055010">
+<property type="term" value="P:ventricular cardiac muscle tissue morphogenesis"/>
+<property type="evidence" value="ECO:0000315"/>
+<property type="project" value="HGNC-UCL"/>
+</dbReference>
+<dbReference type="DisProt" id="DP00166"/>
+<dbReference type="FunFam" id="1.20.5.350:FF:000002">
+<property type="entry name" value="troponin I, fast skeletal muscle"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="1.20.5.350">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Gene3D" id="6.10.250.180">
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR001978">
+<property type="entry name" value="Troponin"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR021666">
+<property type="entry name" value="Troponin-I_N"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR050875">
+<property type="entry name" value="Troponin_I"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR038077">
+<property type="entry name" value="Troponin_sf"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR13738">
+<property type="entry name" value="TROPONIN I"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PANTHER" id="PTHR13738:SF2">
+<property type="entry name" value="TROPONIN I, CARDIAC MUSCLE"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF00992">
+<property type="entry name" value="Troponin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="Pfam" id="PF11636">
+<property type="entry name" value="Troponin-I_N"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="SUPFAM" id="SSF90250">
+<property type="entry name" value="Troponin coil-coiled subunits"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0007">Acetylation</keyword>
+<keyword id="KW-0009">Actin-binding</keyword>
+<keyword id="KW-0122">Cardiomyopathy</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0225">Disease variant</keyword>
+<keyword id="KW-0514">Muscle protein</keyword>
+<keyword id="KW-0597">Phosphoprotein</keyword>
+<keyword id="KW-1267">Proteomics identification</keyword>
+<keyword id="KW-1185">Reference proteome</keyword>
+<feature type="initiator methionine" description="Removed" evidence="17">
+<location>
+<position position="1"/>
+</location>
+</feature>
+<feature type="chain" id="PRO_0000186151" description="Troponin I, cardiac muscle">
+<location>
+<begin position="2"/>
+<end position="210"/>
+</location>
+</feature>
+<feature type="region of interest" description="Disordered" evidence="3">
+<location>
+<begin position="1"/>
+<end position="43"/>
+</location>
+</feature>
+<feature type="region of interest" description="Involved in binding TNC">
+<location>
+<begin position="32"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="region of interest" description="Involved in binding TNC and actin">
+<location>
+<begin position="129"/>
+<end position="149"/>
+</location>
+</feature>
+<feature type="site" description="Involved in TNI-TNT interactions">
+<location>
+<position position="80"/>
+</location>
+</feature>
+<feature type="site" description="Involved in TNI-TNT interactions">
+<location>
+<position position="97"/>
+</location>
+</feature>
+<feature type="modified residue" description="N-acetylalanine" evidence="17">
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="18">
+<location>
+<position position="5"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="18">
+<location>
+<position position="6"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PKA and PKD/PRKD1" evidence="11 17 18 20">
+<location>
+<position position="23"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PKA and PKD/PRKD1" evidence="11 17 18 20">
+<location>
+<position position="24"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphotyrosine" evidence="18">
+<location>
+<position position="26"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by STK4/MST1" evidence="14">
+<location>
+<position position="31"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PKC/PRKCE" evidence="2">
+<location>
+<position position="42"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PKC/PRKCE" evidence="2">
+<location>
+<position position="44"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by STK4/MST1" evidence="14 18">
+<location>
+<position position="51"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="18">
+<location>
+<position position="77"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="18">
+<location>
+<position position="78"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by STK4/MST1" evidence="14">
+<location>
+<position position="129"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine; by STK4/MST1" evidence="14 18">
+<location>
+<position position="143"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine; by PAK3" evidence="6">
+<location>
+<position position="150"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="18">
+<location>
+<position position="166"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphothreonine" evidence="18">
+<location>
+<position position="181"/>
+</location>
+</feature>
+<feature type="modified residue" description="Phosphoserine" evidence="18">
+<location>
+<position position="199"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_043989" description="In CMD2A; dbSNP:rs397516359." evidence="10">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="2"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_063548" description="In CMD1FF; dbSNP:rs267607130." evidence="15">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="36"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_029453" description="In dbSNP:rs3729712.">
+<original>R</original>
+<variation>C</variation>
+<location>
+<position position="79"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_016078" description="Risk factor for CMH7; dbSNP:rs77615401." evidence="4">
+<original>P</original>
+<variation>S</variation>
+<location>
+<position position="82"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_067264" description="In CMD1FF; dbSNP:rs777177571." evidence="16">
+<original>A</original>
+<variation>G</variation>
+<location>
+<position position="116"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_019872" description="In CMH7; dbSNP:rs397516347." evidence="8">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="141"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_016079" description="In RCM1; dbSNP:rs121917760." evidence="7">
+<original>L</original>
+<variation>Q</variation>
+<location>
+<position position="144"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_007603" description="In CMH7; dbSNP:rs104894724." evidence="19">
+<original>R</original>
+<variation>G</variation>
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_016080" description="In RCM1; dbSNP:rs104894724." evidence="7">
+<original>R</original>
+<variation>W</variation>
+<location>
+<position position="145"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_019873" description="In CMH7; dbSNP:rs397516353." evidence="8">
+<original>A</original>
+<variation>V</variation>
+<location>
+<position position="157"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_019874" description="In CMH7; dbSNP:rs397516354." evidence="8 13">
+<original>R</original>
+<variation>P</variation>
+<location>
+<position position="162"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_042745" description="In CMH7; dbSNP:rs397516354." evidence="13">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="162"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_029454" description="In CMH7; dbSNP:rs727504242." evidence="9">
+<original>S</original>
+<variation>F</variation>
+<location>
+<position position="166"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_016081" description="In RCM1; dbSNP:rs121917761." evidence="7">
+<original>A</original>
+<variation>T</variation>
+<location>
+<position position="171"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_019875" description="In CMH7." evidence="8">
+<location>
+<position position="177"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_016082" description="In RCM1; dbSNP:rs104894730." evidence="7">
+<original>K</original>
+<variation>E</variation>
+<location>
+<position position="178"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_063549" description="In CMD1FF; dbSNP:rs267607129." evidence="15">
+<original>N</original>
+<variation>K</variation>
+<location>
+<position position="185"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_019876" description="In CMH7; dbSNP:rs397516357." evidence="8">
+<original>R</original>
+<variation>Q</variation>
+<location>
+<position position="186"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_016083" description="In CMH7 and RCM1." evidence="7">
+<original>D</original>
+<variation>H</variation>
+<location>
+<position position="190"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_016084" description="In RCM1; dbSNP:rs104894729." evidence="7">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="192"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_016085" description="In CMH7; dbSNP:rs104894727." evidence="4 8">
+<original>D</original>
+<variation>N</variation>
+<location>
+<position position="196"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_042746" description="In CMH7; dbSNP:rs727504275." evidence="13">
+<original>R</original>
+<variation>H</variation>
+<location>
+<position position="204"/>
+</location>
+</feature>
+<feature type="sequence variant" id="VAR_007604" description="In CMH7; dbSNP:rs104894725." evidence="19">
+<original>K</original>
+<variation>Q</variation>
+<location>
+<position position="206"/>
+</location>
+</feature>
+<feature type="helix" evidence="23">
+<location>
+<begin position="35"/>
+<end position="37"/>
+</location>
+</feature>
+<feature type="helix" evidence="25">
+<location>
+<begin position="43"/>
+<end position="50"/>
+</location>
+</feature>
+<feature type="helix" evidence="26">
+<location>
+<begin position="59"/>
+<end position="79"/>
+</location>
+</feature>
+<feature type="helix" evidence="23">
+<location>
+<begin position="81"/>
+<end position="83"/>
+</location>
+</feature>
+<feature type="helix" evidence="22">
+<location>
+<begin position="85"/>
+<end position="87"/>
+</location>
+</feature>
+<feature type="helix" evidence="23">
+<location>
+<begin position="90"/>
+<end position="136"/>
+</location>
+</feature>
+<feature type="helix" evidence="24">
+<location>
+<begin position="140"/>
+<end position="159"/>
+</location>
+</feature>
+<feature type="helix" evidence="23">
+<location>
+<begin position="160"/>
+<end position="162"/>
+</location>
+</feature>
+<feature type="helix" evidence="22">
+<location>
+<begin position="163"/>
+<end position="188"/>
+</location>
+</feature>
+<evidence type="ECO:0000250" key="1"/>
+<evidence type="ECO:0000250" key="2">
+<source>
+<dbReference type="UniProtKB" id="P48787"/>
+</source>
+</evidence>
+<evidence type="ECO:0000256" key="3">
+<source>
+<dbReference type="SAM" id="MobiDB-lite"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="4">
+<source>
+<dbReference type="PubMed" id="11815426"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="5">
+<source>
+<dbReference type="PubMed" id="12060657"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="6">
+<source>
+<dbReference type="PubMed" id="12242269"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="7">
+<source>
+<dbReference type="PubMed" id="12531876"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="8">
+<source>
+<dbReference type="PubMed" id="12707239"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="9">
+<source>
+<dbReference type="PubMed" id="12974739"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="10">
+<source>
+<dbReference type="PubMed" id="15070570"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="11">
+<source>
+<dbReference type="PubMed" id="15514163"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="12">
+<source>
+<dbReference type="PubMed" id="15601779"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="13">
+<source>
+<dbReference type="PubMed" id="16199542"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="14">
+<source>
+<dbReference type="PubMed" id="18986304"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="15">
+<source>
+<dbReference type="PubMed" id="19590045"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="16">
+<source>
+<dbReference type="PubMed" id="21846512"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="17">
+<source>
+<dbReference type="PubMed" id="2226863"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="18">
+<source>
+<dbReference type="PubMed" id="22972900"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="19">
+<source>
+<dbReference type="PubMed" id="9241277"/>
+</source>
+</evidence>
+<evidence type="ECO:0000269" key="20">
+<source>
+<dbReference type="PubMed" id="9346285"/>
+</source>
+</evidence>
+<evidence type="ECO:0000305" key="21"/>
+<evidence type="ECO:0007829" key="22">
+<source>
+<dbReference type="PDB" id="1J1E"/>
+</source>
+</evidence>
+<evidence type="ECO:0007829" key="23">
+<source>
+<dbReference type="PDB" id="4Y99"/>
+</source>
+</evidence>
+<evidence type="ECO:0007829" key="24">
+<source>
+<dbReference type="PDB" id="7SC2"/>
+</source>
+</evidence>
+<evidence type="ECO:0007829" key="25">
+<source>
+<dbReference type="PDB" id="8DZV"/>
+</source>
+</evidence>
+<evidence type="ECO:0007829" key="26">
+<source>
+<dbReference type="PDB" id="8FMM"/>
+</source>
+</evidence>
+<sequence length="210" mass="24008" checksum="20A804F8C24AE1B0" modified="2007-01-23" version="3">MADGSSDAAREPRPAPAPIRRRSSNYRAYATEPHAKKKSKISASRKLQLKTLLLQIAKQELEREAEERRGEKGRALSTRCQPLELAGLGFAELQDLCRQLHARVDKVDEERYDIEAKVTKNITEIADLTQKIFDLRGKFKRPTLRRVRISADAMMQALLGARAKESLDLRAHLKQVKKEDTEKENREVGDWRKNIDALSGMEGRKKKFES</sequence>
+</entry>
+<copyright> Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms Distributed under the Creative Commons Attribution (CC BY 4.0) License </copyright>
+</uniprot>

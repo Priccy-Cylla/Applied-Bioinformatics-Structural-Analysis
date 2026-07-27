@@ -1,1 +1,59 @@
+This entails all protein structures from PDB used in this folder. 
 
+# 1. 3DFJ
+# Protein name
+Human prostasin 
+# Organism
+Homo sapiens
+# Experimental method
+X-ray crystallography
+# Resolution
+1.45 Å
+# Biological Function
+Prostasin is a glycosylphosphatidylinositol (GPI)-anchored serine protease involved in regulating epithelial sodium channels (ENaC), maintaining epithelial barrier function, and controlling sodium and fluid balance. It also plays a role in skin development, airway function, and has been implicated in cancer progression and inflammatory diseases.
+
+# 2. 5E6E
+# Protein name	
+Hemoglobin subunit alpha, Hemoglobin subunit beta
+# Organism
+Homo sapiens (Human)
+# Experimental method	
+X-ray crystallography
+# Resolution	
+1.60 Å
+# Biological Function
+Human hemoglobin is the major oxygen-transport protein in red blood cells. It is a tetrameric protein composed of two α-globin chains and two β-globin chains (α₂β₂). Each globin chain has a heme group with an iron ion (Fe²⁺) that binds oxygen and allows oxygen uptake in the lungs and delivery to tissues, and vice versa. It is important for understanding hemoglobin-related disorders such as Sickle Cell Disease, where mutations in the β-globin chain affect protein structure and function.
+
+# 3. 5MGQ
+# Protein name	
+Islet Amyloid Polypeptide 
+# Organism	
+Homo sapiens (Human)
+# Experimental method	
+Solid-state Nuclear Magnetic Resonance (ssNMR)
+# Biological Function	
+Islet amyloid polypeptide (IAPP) is also known as amylin. It is a 37-amino-acid peptide hormone produced and co-secreted with insulin by pancreatic β-cells. It regulates glucose metabolism, gastric emptying, and satiety. In humans, IAPP has a strong tendency to misfold and form amyloid fibrils, which are a major pathological feature of pancreatic islets in type 2 Diabetes Mellitus (T2DM).
+
+# 4. 7JGD
+# Protein name	
+Erythrocyte Membrane Protein 1
+# Organism	
+Plasmodium falciparum (Malaria parasite)
+# Experimental method	
+X-ray crystallography
+# Resolution
+2.80 Å
+# Biological Function
+Erythrocyte membrane protein 1 is a major virulence factor expressed on the surface of Plasmodium falciparum-infected red blood cells. It is encoded by the highly variable var gene family and plays a crucial role in malaria pathogenesis by mediating adhesion of infected erythrocytes to host endothelial receptors and avoiding immune clearance. It interacts with host receptors such as CD36, ICAM-1, and endothelial protein C receptor (EPCR), enabling parasite sequestration and immune evasion. This then contributes to severe malaria complications, including cerebral malaria.
+
+# 5. 9BCS
+# Protein name
+Atrial Natriuretic Peptide Receptor 1 
+# Organism	
+Homo sapiens (Human)
+# Experimental method	
+Cryo-Electron Microscopy (Cryo-EM)
+# Resolution	
+3.10 Å 
+# Biological significance	
+Atrial natriuretic peptide receptor 1 is encoded by the NPR1 gene. It is a membrane-bound receptor involved in cardiovascular homeostasis. It is activated by natriuretic peptides, specifically atrial natriuretic peptide (ANP) and B-type natriuretic peptide (BNP), which are released in response to increased cardiac pressure and volume. This activates its intracellular guanylyl cyclase domain to produce cGMP. This pathway promotes vasodilation, sodium excretion, and blood pressure regulation and plays a role in hypertension, heart failure, and cardiovascular drug discovery.

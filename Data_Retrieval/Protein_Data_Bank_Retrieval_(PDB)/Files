@@ -1,1 +1,4 @@
+# Protein Structures from PDB
 
+This directory consists of 5 protein structures retrieved from Protein data bank (PDB). Each of these protein structures are in the Legacy PDB file format (.pdb), FASTA file format (.fasta), and also includes their Complete Structure Validation Report (PDF).
+They include the protein name, PDB ID, organism, experimental method used, resolution (where applicable), and their biological significance.

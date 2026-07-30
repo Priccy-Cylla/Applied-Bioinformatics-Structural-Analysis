@@ -7,11 +7,11 @@ Homo sapiens (Human)
 # Gene Name
 Angiotensinogen (AGT) gene, complete coding sequence (cds)
 # Biological Function
-The AGT gene encodes angiotensinogen. Angiotensinogen is the precursor of angiotensin I and angiotensin II in the renin–angiotensin–aldosterone system (RAAS). Angiotensin II acts as a potent vasoconstrictor and its function is to regulate blood pressure, electrolyte balance, and fluid homeostasis. Variants in the AGT gene have been associated with Hypertension, Cardiovascular Diseases, Kidney Diseases, and pregnancy-related conditions like Pre-eclampsia.
+The AGT gene encodes angiotensinogen. Angiotensinogen is the precursor of angiotensin I and angiotensin II in the renin–angiotensin–aldosterone system (RAAS). Angiotensin II acts as a potent vasoconstrictor and its function is to regulate blood pressure, electrolyte balance, and fluid homeostasis. Variants in the AGT gene have been linked with Hypertension, Cardiovascular Diseases, Kidney Diseases, and pregnancy-related conditions like Pre-eclampsia.
 
 # 2. AJ313033.1
 # Organism Name
-Salmonella enterica serovar Paratyphi
+Salmonella enterica serovar Paratyphi A
 # Gene Name
 Cytolysin A (clyA) gene
 # Biological Function
@@ -23,7 +23,7 @@ Streptococcus pneumoniae (strain 547)
 # Gene Name
 Partial 23S ribosomal RNA (23S rRNA) gene
 # Biological Function
-The 23S rRNA gene encodes a component of the 50S large ribosomal subunit, which is vital for the synthesis of bacterial protein. It plays a essential role in peptide bond formation during translation. TIt is commonly used in bacterial identification, phylogenetic studies, and the detection of mutations associated with antibiotics resistance such as macrolides and linezolid.
+The 23S rRNA gene encodes a component of the 50S large ribosomal subunit, which is vital for the synthesis of bacterial protein. It plays an essential role in peptide bond formation during translation. It is commonly used in bacterial identification, phylogenetic studies, and the detection of mutations associated with antibiotics resistance such as macrolides and linezolid.
 
 # 4. MH644812.1
 # Organism Name
@@ -40,4 +40,3 @@ Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)
 Complete genome assembly (monopartite genome)
 # Biological Function
 This represents the complete RNA genome of SARS-CoV-2, the causative agent of COVID-19. The genome contains genes encoding structural, non-structural, and accessory proteins required for viral replication, transmission, and infection. Complete genome sequences are essential for genomic surveillance, mutation tracking, epidemiological studies, and vaccine research.
-

@@ -1,1 +1,4 @@
+# Protein Entries from UniProt
 
+In this directory, there are 5 protein entries retrieved from UniProt database. Each entry contains protein sequences in the Text file format (.txt), FASTA file format (.fasta), and XML file format (.xml).
+The protein names, organisms, UniProt accession numbers, protein functions, and cellular location are also included.

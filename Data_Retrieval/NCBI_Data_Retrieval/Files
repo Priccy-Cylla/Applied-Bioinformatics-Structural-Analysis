@@ -1,4 +1,3 @@
 # NCBI
 
-This directory contains nucleotide and protein sequences retrieved from NCBI database. Sequences are both in the FASTA file format (for both nucleotides and proteins) and either the GenBank File format (for nucleotides) or GenPept file format (for proteins).
-
+This directory contains nucleotide and protein sequences retrieved from NCBI database. Sequences are both in the FASTA file format (.fasta [for both nucleotides and proteins]) and either the GenBank File format (.gb [for nucleotides]) or GenPept file format (.gp [for proteins]).

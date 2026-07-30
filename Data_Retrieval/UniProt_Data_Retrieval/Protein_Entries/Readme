@@ -1,1 +1,59 @@
+This contains all protein entries from Uniprot used in this folder.
 
+## 1. P11413
+# Protein Name
+Glucose-6-phosphate dehydrogenase (G6PD)
+# Organism
+Homo sapiens (Human)
+# Protein Function
+It catalyses the first and rate-limiting step of the Pentose Phosphate Pathway (PPP), producing NADPH to protect cells against oxidative stress. By so doing, it also supports biosynthetic processes such as fatty acid and cholesterol synthesis. G6PD deficiency can lead to Haemolytic Anaemia under oxidative stress.
+# Subcellular location
+Cytoplasm; Membrane
+
+---
+
+## 2. P19429
+# Protein Name
+Cardiac Troponin I (Troponin I, cardiac muscle)
+# Organism
+Homo sapiens (Human)
+# Protein Function
+It is the inhibitory subunit of the troponin complex in cardiac muscle. It regulates calcium-dependent cardiac muscle contraction by inhibiting actomyosin ATPase activity. Cardiac troponin I is needed for normal heart function and, hence, is a highly specific biomarker for myocardial injury and Acute Myocardial Infarction (heart attack).
+# Subcellular location
+Sarcomere (thin filament of cardiac muscle cells); Cytoplasm.
+
+---
+
+## 3. P68871
+# Protein Name
+Haemoglobin subunit beta (HBB)
+# Organism
+Homo sapiens (Human)
+# Protein Function
+HBB forms the β-globin chain of adult hemoglobin (HbA). It allows for reversible oxygen transport from the lungs to tissues and carbon dioxide transport back to the lungs. Mutations cause disorders such as Sickle Cell Disease and β-thalassemia.
+# Subcellular location
+Cytosol; Cytoplasm of erythrocytes (red blood cells).   
+
+---
+
+## 4. Q8IWL1
+# Protein Name
+Pulmonary surfactant-associated protein A2 (SP-A2)
+# Organism
+Homo sapiens (Human)
+# Protein Function
+It is a member of the collectin family and plays a vital role in pulmonary innate immunity and lung surfactant homeostasis. It binds to carbohydrates on the surfaces of pathogens and promotes their clearance by alveolar macrophages (opsonization). It also reduces alveolar surface tension to prevent lung collapse.
+# Subcellular location
+Secreted; Extracellular region (pulmonary surfactant in the alveoli)
+
+---
+
+## 5. Q9H165
+# Protein Name
+BCL11 transcription factor A (BCL11A)
+# Organism
+Homo sapiens (Human)
+# Protein Function
+It is a zinc finger transcription factor involved in gene expression in haematopoietic and nervous system development. It represses foetal haemoglobin (HbF) expression after birth thereby promoting the switch to adult hemoglobin, regulates gene transcription, and is a therapeutic target for treating Sickle Cell Disease and β-thalassemia. Reducing its activity can restore HbF production and improve clinical outcomes.
+# Subcellular location
+Chromosome, cytoplasm, nucleus

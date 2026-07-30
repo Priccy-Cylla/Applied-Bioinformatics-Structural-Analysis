@@ -1,4 +1,4 @@
-This is a summary of the NCBI Protein Sequences containing the accession numbers, organism names, gene names and biological functions.
+This is a summary of the NCBI Protein Sequences containing the accession numbers, organism names, protein names and biological functions.
 
 # 1. KAI4032927.1	
 # Organism Name	
@@ -14,7 +14,7 @@ Homo sapiens
 # Protein Name
 Hemoglobin subunit beta (HBB)	
 # Biological Function
-Hemoglobin subunit beta is one of the two types of globin chains that make up adult hemoglobin (HbA) in red blood cells. Together with the alpha-globin subunits, it binds and transports oxygen from the lungs to body tissues and facilitates carbon dioxide transport back to the lungs. Mutations in the HBB gene can cause inherited blood disorders such as Sickle Cell Disease and β-thalassemia, making it one of the clinically significant human proteins.
+Hemoglobin subunit beta is one of the two types of globin chains that make up adult hemoglobin (HbA) in red blood cells. Together with the alpha-globin subunit, it binds and transports oxygen from the lungs to body tissues and facilitates carbon dioxide transport back to the lungs. Mutations in the HBB gene can cause inherited blood disorders such as Sickle Cell Disease and β-thalassemia, making it one of the clinically significant human proteins.
 
 # 3. NP_001369155.1
 # Organism Name
@@ -38,4 +38,4 @@ Haemophilus influenzae
 # Protein Name
 16S rRNA (cytosine(967)-C(5))-methyltransferase 
 # Biological Function
-This enzyme methylates cytosine at position 967 of the bacterial 16S ribosomal RNA (rRNA), a post-transcriptional modification essential for proper ribosome assembly and function. The modification helps maintain translation accuracy, ribosomal stability, and efficient protein synthesis. As a ribosomal RNA-modifying enzyme, it is essential for bacterial growth and survival and may influence susceptibility to certain antibiotics that target the bacterial ribosome.
+This enzyme methylates cytosine at position 967 of the bacterial 16S ribosomal RNA (rRNA), a post-transcriptional modification essential for proper ribosome assembly and function. The modification helps to maintain translation accuracy, ribosomal stability, and efficient protein synthesis. As a ribosomal RNA-modifying enzyme, it is essential for bacterial growth and survival and may influence susceptibility to certain antibiotics that target the bacterial ribosome.

@@ -1,1 +1,4 @@
+# DATA RETRIEVAL
 
+This folder contains biological data retrieved from the 3 major public databases, that is, nucleotide and protein sequences from NCBI, PDB, and UniProt.
+Details consist of the gene or protein name, their respective accession numbers, the organism, and the biological function.

@@ -1,1 +1,2 @@
-
+Using the NCBI Protein Database, the Human Haemoglobin subunit beta protein sequence was retrieved with accession number P68871.2. For the purpose of this project, the sequence of the HBB served as the query for BLASTp analysis, with the goal of identifying homologous HBB proteins from other mammalian species.
+As the project advances, this will be required for phylogenetic analysis to identify conserved regions, evolutionary changes and to know which species are more closely related than others.

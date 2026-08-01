@@ -1,0 +1,1002 @@
+>Feature sp|P68871.2|HBB_HUMAN
+1	147	gene
+			gene	HBB
+1	147	Protein
+			product	Hemoglobin subunit beta
+			product	Beta-globin
+			product	Hemoglobin beta chain
+			UniProtKB_evidence	Evidence at protein level
+2	147	Region
+			region	Mature chain
+			note	Hemoglobin subunit beta. /id=PRO_0000052976.
+2	2	Region
+			region	Variant
+			note	V -> A (in Raleigh; O(2) affinity down; dbSNP:rs33949930). /id=VAR_002856.
+2	2	Site
+			site_type	acetylation
+			note	N-acetylvaline. /evidence=ECO:0000250|UniProtKB:P02086.
+2	2	Site
+			site_type	glycosylation
+			note	N-linked (Glc) (glycation) valine; in Hb A1c. /evidence=ECO:0000269|PubMed:635569.
+2	2	Site
+			site_type	modified
+			note	N-pyruvate 2-iminyl-valine; in Hb A1b.
+3	147	Region
+			region	Domain
+			note	Globin. /evidence=ECO:0000255|PROSITE-ProRule:PRU00238.
+3	5	Region
+			region	Helical region
+			note	/evidence=ECO:0007829|PDB:6LCW.
+3	3	Region
+			region	Variant
+			note	H -> L (in Graz; dbSNP:rs33983205). /evidence=ECO:0000269|PubMed:1487420. /id=VAR_002857.
+3	3	Region
+			region	Variant
+			note	H -> Q (in Okayama; O(2) affinity up; dbSNP:rs713040). /id=VAR_002858.
+3	3	Region
+			region	Variant
+			note	H -> R (in Deer Lodge; O(2) affinity up; dbSNP:rs33983205). /id=VAR_002859.
+3	3	Region
+			region	Variant
+			note	H -> Y (in Fukuoka; dbSNP:rs35906307). /id=VAR_002860.
+6	17	Region
+			region	Helical region
+			note	/evidence=ECO:0007829|PDB:2W72.
+6	6	Region
+			region	Variant
+			note	P -> R (in Warwickshire; dbSNP:rs34769005). /id=VAR_002861.
+7	7	Region
+			region	Variant
+			note	E -> A (in G-Makassar; dbSNP:rs334). /id=VAR_002862.
+7	7	Region
+			region	Variant
+			note	E -> K (in Hb C; confers resistance to severe malaria; dbSNP:rs33930165). /evidence=ECO:0000269|PubMed:11001883, ECO:0000269|PubMed:16175509. /id=VAR_002864.
+7	7	Region
+			region	Variant
+			note	E -> Q (in Machida; dbSNP:rs33930165). /id=VAR_002865.
+7	7	Region
+			region	Variant
+			note	E -> V (in SKCA; Hb S; at heterozygosity confers resistance to malaria; dbSNP:rs334). /evidence=ECO:0000269|PubMed:13464827, ECO:0000269|PubMed:16001361, ECO:0000269|Ref.10. /id=VAR_002863.
+8	146	Region
+			region	Hb-beta-like
+			note	Hemoglobin beta, gamma, delta, epsilon, and related Hb subunits
+			db_xref	CDD:381262
+8	9	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+8	8	Region
+			region	Variant
+			note	E -> G (in G-San Jose; mildly unstable; dbSNP:rs34387455). /id=VAR_002866.
+8	8	Region
+			region	Variant
+			note	E -> K (in G-Siriraj; dbSNP:rs34948328). /id=VAR_002867.
+9	9	Region
+			region	Variant
+			note	K -> E (in N-Timone; dbSNP:rs33926764). /evidence=ECO:0000269|PubMed:2634671. /id=VAR_002868.
+9	9	Region
+			region	Variant
+			note	K -> Q (in J-Luhe; dbSNP:rs33926764). /id=VAR_002869.
+9	9	Region
+			region	Variant
+			note	K -> T (in Rio Grande; dbSNP:rs33932981). /evidence=ECO:0000269|PubMed:6857757. /id=VAR_002870.
+9	9	Site
+			site_type	glycosylation
+			note	N-linked (Glc) (glycation) lysine. /evidence=ECO:0000269|PubMed:7358733.
+10	10	Region
+			region	Variant
+			note	S -> C (in Porto Alegre; O(2) affinity up; dbSNP:rs33918131). /id=VAR_002871.
+10	10	Site
+			site_type	phosphorylation
+			note	Phosphoserine. /evidence=ECO:0007744|PubMed:24275569.
+11	11	Region
+			region	Variant
+			note	A -> D (in Ankara; dbSNP:rs33947457). /evidence=ECO:0000269|PubMed:4850241. /id=VAR_002872.
+11	11	Region
+			region	Variant
+			note	A -> V (in Iraq-Halabja; dbSNP:rs33947457). /evidence=ECO:0000269|PubMed:10398311. /id=VAR_025393.
+12	12	Region
+			region	Variant
+			note	V -> D (in Windsor; O(2) affinity up; unstable; dbSNP:rs35140348). /evidence=ECO:0000269|PubMed:2599880. /id=VAR_002873.
+12	12	Region
+			region	Variant
+			note	V -> I (in Hamilton; dbSNP:rs33974228). /id=VAR_002874.
+13	13	Site
+			site_type	phosphorylation
+			note	Phosphothreonine. /evidence=ECO:0007744|PubMed:24275569.
+14	14	Region
+			region	Variant
+			note	A -> D (in J-Lens; dbSNP:rs35203747). /id=VAR_002875.
+15	15	Region
+			region	Variant
+			note	L -> P (in Saki; unstable; dbSNP:rs33935445). /id=VAR_002876.
+15	15	Region
+			region	Variant
+			note	L -> R (in Soegn; unstable; dbSNP:rs33935445). /id=VAR_002877.
+16	16	Region
+			region	Variant
+			note	W -> G (in Randwick; unstable; dbSNP:rs33946157). /evidence=ECO:0000269|PubMed:3384707. /id=VAR_002878.
+16	16	Region
+			region	Variant
+			note	W -> R (in Belfast; O(2) affinity up; unstable; dbSNP:rs33946157). /id=VAR_002879.
+17	17	Region
+			region	Variant
+			note	G -> D (in J-Baltimore/J-Trinidad/J-Ireland/J-Georgia/N-New Haven; dbSNP:rs33962676). /id=VAR_002880.
+17	17	Region
+			region	Variant
+			note	G -> R (in D-Bushman; dbSNP:rs63751285). /id=VAR_002881.
+18	18	Region
+			region	Variant
+			note	K -> E (in Nagasaki; dbSNP:rs33986703). /id=VAR_002882.
+18	18	Region
+			region	Variant
+			note	K -> N (in J-Amiens; dbSNP:rs36006214). /id=VAR_002883.
+18	18	Region
+			region	Variant
+			note	K -> Q (in Nikosia; dbSNP:rs33986703). /id=VAR_002884.
+18	18	Site
+			site_type	glycosylation
+			note	N-linked (Glc) (glycation) lysine. /evidence=ECO:0000269|PubMed:7358733.
+19	19	Region
+			region	Variant
+			note	V -> M (in Baden; slightly unstable; dbSNP:rs35802118). /id=VAR_002885.
+20	20	Region
+			region	Variant
+			note	N -> D (in Alamo; dbSNP:rs34866629). /id=VAR_002886.
+20	20	Region
+			region	Variant
+			note	N -> K (in D-Ouleh RABAH; dbSNP:rs63750840). /id=VAR_002887.
+20	20	Region
+			region	Variant
+			note	N -> S (in Malay; dbSNP:rs33972047). /id=VAR_002888.
+21	35	Region
+			region	Helical region
+			note	/evidence=ECO:0007829|PDB:2W72.
+21	21	Region
+			region	Variant
+			note	V -> M (in Olympia; O(2) affinity up; dbSNP:rs35890959). /id=VAR_002889.
+22	22	Region
+			region	Variant
+			note	D -> G (in Connecticut; O(2) affinity down; dbSNP:rs33977536). /id=VAR_002890.
+22	22	Region
+			region	Variant
+			note	D -> H (in Karlskoga; dbSNP:rs33950093). /evidence=ECO:0000269|PubMed:8330972. /id=VAR_002892.
+22	22	Region
+			region	Variant
+			note	D -> N (in Cocody; dbSNP:rs33950093). /id=VAR_002891.
+22	22	Region
+			region	Variant
+			note	D -> Y (in Yusa; dbSNP:rs33950093). /id=VAR_002893.
+23	23	Region
+			region	Variant
+			note	E -> A (in G-Coushatta/G-Saskatoon/G-Taegu/Hsin Chu; dbSNP:rs33936254). /id=VAR_002894.
+23	23	Region
+			region	Variant
+			note	E -> G (in G-Taipei; dbSNP:rs33936254). /id=VAR_002895.
+23	23	Region
+			region	Variant
+			note	E -> K (in E-Saskatoon; dbSNP:rs33959855). /id=VAR_002896.
+23	23	Region
+			region	Variant
+			note	E -> Q (in D-Iran; dbSNP:rs33959855). /id=VAR_002897.
+23	23	Region
+			region	Variant
+			note	E -> V (in D-Granada; dbSNP:rs33936254). /id=VAR_002898.
+24	24	Region
+			region	Variant
+			note	Missing (in Freiburg; dbSNP:rs34160180). /evidence=ECO:0000269|PubMed:5919752. /id=VAR_069169.
+24	24	Region
+			region	Variant
+			note	V -> D (in Strasbourg; O(2) affinity up; dbSNP:rs33945546). /id=VAR_002899.
+24	24	Region
+			region	Variant
+			note	V -> F (in Palmerston North; O(2) affinity up; unstable; dbSNP:rs33929459). /evidence=ECO:0000269|PubMed:7161106. /id=VAR_002900.
+24	24	Region
+			region	Variant
+			note	V -> G (in Miyashiro; O(2) affinity up; unstable; dbSNP:rs33945546). /evidence=ECO:0000269|PubMed:7338468. /id=VAR_002901.
+25	25	Region
+			region	Variant
+			note	G -> D (in Moscva; O(2) affinity down; unstable; dbSNP:rs33968721). /id=VAR_002902.
+25	25	Region
+			region	Variant
+			note	G -> R (in Riverdale-Bronx; O(2) affinity up; unstable; dbSNP:rs33972975). /id=VAR_002903.
+25	25	Region
+			region	Variant
+			note	G -> V (in Savannah; unstable; dbSNP:rs33968721). /id=VAR_002904.
+26	27	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+26	26	Region
+			region	Variant
+			note	G -> D (in J-Auckland; unstable; O(2) affinity down; dbSNP:rs35474880). /evidence=ECO:0000269|PubMed:3654265. /id=VAR_002905.
+26	26	Region
+			region	Variant
+			note	G -> R (in G-Taiwan Ami; dbSNP:rs34404985). /id=VAR_002906.
+26	26	Region
+			region	Conflict
+			note	Missing (in Ref. 15; ACD39349). /evidence=ECO:0000305.
+27	27	Region
+			region	Variant
+			note	E -> K (in B-THAL; Hb E; confers resistance to severe malaria; dbSNP:rs33950507). /evidence=ECO:0000269|PubMed:12144064, ECO:0000269|PubMed:12149194, ECO:0000269|PubMed:15481886, ECO:0000269|PubMed:6166632. /id=VAR_002907.
+27	27	Region
+			region	Variant
+			note	E -> V (in Henri Mondor; slightly unstable; dbSNP:rs33915112). /id=VAR_002908.
+28	28	Region
+			region	Variant
+			note	A -> D (in Volga/Drenthe; unstable; dbSNP:rs33954632). /id=VAR_002909.
+28	28	Region
+			region	Variant
+			note	A -> S (in Knossos; dbSNP:rs35424040). /evidence=ECO:0000269|PubMed:7173395. /id=VAR_002910.
+28	28	Region
+			region	Variant
+			note	A -> V (in Grange-blanche; O(2) affinity up; dbSNP:rs33954632). /evidence=ECO:0000269|PubMed:3666141. /id=VAR_002911.
+29	29	Region
+			region	Variant
+			note	L -> P (in Genova/Hyogo; unstable; dbSNP:rs33916412). /id=VAR_002912.
+29	29	Region
+			region	Variant
+			note	L -> Q (in St Louis; dbSNP:rs33916412). /evidence=ECO:0000269|PubMed:186485. /id=VAR_035236.
+30	31	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+30	30	Region
+			region	Variant
+			note	G -> D (in Lufkin; unstable; dbSNP:rs35685286). /id=VAR_002913.
+31	31	Site
+34	35
+38	38
+41	41
+98	98
+100	100
+103	103
+109	109
+112	113
+116	117
+120	120
+123	125
+128	129
+132	132
+			site_type	other
+			note	tetramer interface [polypeptide binding]
+			db_xref	CDD:381262
+31	31	Region
+			region	Variant
+			note	R -> S (in Tacoma; unstable; dbSNP:rs1135071). /id=VAR_002914.
+32	32	Site
+42	43
+64	64
+67	68
+71	71
+89	89
+93	93
+97	97
+99	99
+103	104
+107	107
+142	142
+			site_type	other
+			note	heme binding site [chemical binding]
+			db_xref	CDD:381262
+32	32	Region
+			region	Variant
+			note	L -> P (in Yokohama; unstable; dbSNP:rs33920173). /evidence=ECO:0000269|PubMed:7338469. /id=VAR_002915.
+33	42	Region
+			region	Processed active peptide
+			note	LVV-hemorphin-7. /id=PRO_0000296641.
+33	39	Region
+			region	Processed active peptide
+			note	Spinorphin. /id=PRO_0000424226.
+33	33	Region
+			region	Variant
+			note	L -> R (in Castilla; unstable; dbSNP:rs33948578). /id=VAR_002916.
+33	33	Region
+			region	Variant
+			note	L -> V (in Muscat; slightly unstable; dbSNP:rs34314652). /evidence=ECO:0000269|PubMed:1517102. /id=VAR_002917.
+35	35	Region
+			region	Variant
+			note	V -> D (in Santander; unstable; dbSNP:rs1135101). /evidence=ECO:0000269|PubMed:12603091. /id=VAR_025394.
+35	35	Region
+			region	Variant
+			note	V -> F (in Pitie-Salpetriere; O(2) affinity up; dbSNP:rs1141387). /id=VAR_002918.
+35	35	Region
+			region	Variant
+			note	V -> L (in Nantes; increased oxygen affinity; dbSNP:rs1141387). /evidence=ECO:0000269|PubMed:12908805. /id=VAR_025395.
+36	37	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+36	36	Region
+			region	Variant
+			note	Y -> F (in Philly; O(2) affinity up; unstable; dbSNP:rs35857380). /id=VAR_002919.
+37	42	Region
+			region	Helical region
+			note	/evidence=ECO:0007829|PDB:2W72.
+37	37	Region
+			region	Variant
+			note	P -> R (in Sunnybrook; dbSNP:rs33993004). /id=VAR_002920.
+37	37	Region
+			region	Variant
+			note	P -> S (in North Chicago; O(2) affinity up; dbSNP:rs33948615). /evidence=ECO:0000269|PubMed:3937824. /id=VAR_002921.
+37	37	Region
+			region	Variant
+			note	P -> T (in Linkoping/Finlandia; O(2) affinity up; dbSNP:rs33948615). /evidence=ECO:0000269|PubMed:3691763. /id=VAR_002922.
+38	39	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+38	38	Region
+			region	Variant
+			note	W -> G (in Howick; dbSNP:rs33994623). /evidence=ECO:0000269|PubMed:8144352. /id=VAR_002923.
+38	38	Region
+			region	Variant
+			note	W -> R (in Rothschild; O(2) affinity down; dbSNP:rs33994623). /evidence=ECO:0000269|PubMed:1567857. /id=VAR_002925.
+38	38	Region
+			region	Variant
+			note	W -> S (in Hirose; O(2) affinity up; dbSNP:rs33991059). /id=VAR_002924.
+39	39	Region
+			region	Variant
+			note	T -> N (in Hinwil; O(2) affinity up; dbSNP:rs34703513). /evidence=ECO:0000269|PubMed:8745430. /id=VAR_002926.
+40	40	Region
+			region	Variant
+			note	Q -> E (in Vaasa; unstable; dbSNP:rs11549407). /id=VAR_002927.
+40	40	Region
+			region	Variant
+			note	Q -> K (in Alabama; dbSNP:rs11549407). /evidence=ECO:0000269|PubMed:1115799. /id=VAR_002928.
+40	40	Region
+			region	Variant
+			note	Q -> R (in Tianshui; dbSNP:rs35973315). /id=VAR_002929.
+42	42	Region
+			region	Conflict
+			note	F -> L (in Ref. 13; AAR96398). /evidence=ECO:0000305.
+42	42	Region
+			region	Variant
+			note	F -> Y (in Mequon; dbSNP:rs33926796). /id=VAR_002930.
+42	42	Region
+			region	Variant
+			note	Missing (in Bruxelles). /evidence=ECO:0000269|PubMed:2599881. /id=VAR_035237.
+43	43	Region
+			region	Variant
+			note	F -> L (in Louisville; unstable; dbSNP:rs33924146). /evidence=ECO:0000269|Ref.6. /id=VAR_002931.
+43	43	Region
+			region	Variant
+			note	F -> S (in Hammersmith; dbSNP:rs34378160). /evidence=ECO:0000269|PubMed:6259091. /id=VAR_035239.
+43	43	Region
+			region	Variant
+			note	Missing (in Bruxelles). /evidence=ECO:0000269|PubMed:2599881. /id=VAR_035238.
+44	46	Region
+			region	Helical region
+			note	/evidence=ECO:0007829|PDB:1IRD.
+44	44	Region
+			region	Variant
+			note	E -> Q (in Hoshida/Chaya; dbSNP:rs33922842). /id=VAR_002932.
+45	45	Region
+			region	Variant
+			note	S -> C (in Mississippi; dbSNP:rs34868397). /id=VAR_002933.
+45	45	Site
+			site_type	phosphorylation
+			note	Phosphoserine. /evidence=ECO:0007744|PubMed:24275569.
+46	47	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+46	46	Region
+			region	Variant
+			note	F -> S (in Cheverly; unstable; dbSNP:rs33978338). /id=VAR_002934.
+47	47	Region
+			region	Variant
+			note	G -> E (in K-Ibadan; dbSNP:rs35303218). /id=VAR_002935.
+48	48	Region
+			region	Variant
+			note	D -> A (in Avicenna; dbSNP:rs33980484). /id=VAR_002936.
+48	48	Region
+			region	Variant
+			note	D -> G (in Gavello; dbSNP:rs33980484). /id=VAR_002937.
+48	48	Region
+			region	Variant
+			note	D -> Y (in Maputo; dbSNP:rs33932070). /evidence=ECO:0000269|PubMed:6629824. /id=VAR_002938.
+49	49	Region
+			region	Variant
+			note	L -> P (in Bab-Saadoum; slightly unstable; dbSNP:rs33952850). /id=VAR_002939.
+50	50	Region
+			region	Variant
+			note	S -> F (in Las Palmas; slightly unstable; dbSNP:rs33960931). /evidence=ECO:0000269|PubMed:3384708, ECO:0000269|Ref.13. /id=VAR_002940.
+51	51	Region
+			region	Variant
+			note	T -> K (in Edmonton). /id=VAR_002941.
+51	51	Site
+			site_type	phosphorylation
+			note	Phosphothreonine. /evidence=ECO:0007744|PubMed:24275569.
+52	57	Region
+			region	Helical region
+			note	/evidence=ECO:0007829|PDB:2W72.
+52	52	Region
+			region	Variant
+			note	P -> R (in Willamette; O(2) affinity up; unstable; dbSNP:rs33969727). /id=VAR_002942.
+53	54	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+53	53	Region
+			region	Variant
+			note	D -> A (in Ocho Rios; dbSNP:rs33919924). /id=VAR_002943.
+53	53	Region
+			region	Variant
+			note	D -> H (in Summer Hill; dbSNP:rs33961886). /id=VAR_002944.
+55	55	Region
+			region	Variant
+			note	V -> D (in Jacksonville; O(2) affinity up; unstable; dbSNP:rs34037627). /evidence=ECO:0000269|PubMed:2101840. /id=VAR_002945.
+56	56	Region
+			region	Variant
+			note	M -> K (in Matera; unstable; dbSNP:rs35094013). /evidence=ECO:0000269|PubMed:2384314. /id=VAR_002946.
+57	58	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+57	57	Region
+			region	Variant
+			note	G -> R (in Hamadan; dbSNP:rs33935983). /id=VAR_002947.
+58	58	Region
+			region	Variant
+			note	N -> K (in G-ferrara; unstable; dbSNP:rs35278874). /id=VAR_002948.
+59	75	Region
+			region	Helical region
+			note	/evidence=ECO:0007829|PDB:2W72.
+59	59	Region
+			region	Variant
+			note	P -> R (in Dhofar/Yukuhashi; dbSNP:rs33991472). /id=VAR_002949.
+60	60	Region
+			region	Variant
+			note	K -> E (in I-High Wycombe; dbSNP:rs33969400). /id=VAR_002950.
+60	60	Site
+			site_type	acetylation
+			note	N6-acetyllysine. /evidence=ECO:0000269|PubMed:4531009.
+60	60	Site
+			site_type	other
+			note	Not glycated. /evidence=ECO:0000269|PubMed:7358733.
+61	61	Region
+			region	Variant
+			note	V -> A (in Collingwood; unstable; dbSNP:rs33931779). /id=VAR_002951.
+62	62	Region
+			region	Variant
+			note	K -> E (in N-Seatlle; dbSNP:rs33995148). /id=VAR_002952.
+62	62	Region
+			region	Variant
+			note	K -> M (in Bologna; O(2) affinity down; dbSNP:rs34974709). /id=VAR_002953.
+62	62	Region
+			region	Variant
+			note	K -> N (in Hikari; dbSNP:rs34446260). /id=VAR_002954.
+63	63	Region
+			region	Variant
+			note	A -> D (in J-Europa; dbSNP:rs34151786). /evidence=ECO:0000269|PubMed:8811317. /id=VAR_002955.
+63	63	Region
+			region	Variant
+			note	A -> P (in Duarte; unstable; dbSNP:rs34933455). /id=VAR_002956.
+64	64	Region
+			region	Variant
+			note	H -> Y (in M-Saskatoon; O(2) affinity up; dbSNP:rs33922873). /evidence=ECO:0000269|PubMed:13897827. /id=VAR_002957.
+66	66	Region
+			region	Variant
+			note	K -> M (in J-Antakya; dbSNP:rs33932548). /evidence=ECO:0000269|PubMed:3707969. /id=VAR_002958.
+66	66	Region
+			region	Variant
+			note	K -> N (in J-Sicilia; dbSNP:rs35747961). /evidence=ECO:0000269|PubMed:4852224. /id=VAR_002959.
+66	66	Region
+			region	Variant
+			note	K -> Q (in J-Cairo; dbSNP:rs35353749). /evidence=ECO:0000269|PubMed:1247583. /id=VAR_002960.
+67	67	Region
+			region	Variant
+			note	K -> I (in Vigo; O(2) affinity down). /evidence=ECO:0000269|PubMed:28066926. /id=VAR_079528.
+67	67	Region
+			region	Variant
+			note	K -> T (in Chico; O(2) affinity down; dbSNP:rs35939489). /id=VAR_002961.
+67	67	Site
+			site_type	glycosylation
+			note	N-linked (Glc) (glycation) lysine. /evidence=ECO:0000269|PubMed:7358733.
+68	68	Region
+			region	Variant
+			note	V -> A (in Sydney; unstable; dbSNP:rs33918343). /id=VAR_002962.
+68	68	Region
+			region	Variant
+			note	V -> D (in Bristol). /evidence=ECO:0000269|PubMed:8704193. /id=VAR_035240.
+68	68	Region
+			region	Variant
+			note	V -> G (in non-spherocytic haemolytic anemia; Manukau; dbSNP:rs33918343). /evidence=ECO:0000269|PubMed:8280608. /id=VAR_040060.
+68	68	Region
+			region	Variant
+			note	V -> M (in Alesha; unstable; dbSNP:rs36008922). /evidence=ECO:0000269|PubMed:8330974. /id=VAR_002963.
+69	69	Region
+			region	Variant
+			note	L -> H (in Brisbane; O(2) affinity up; dbSNP:rs33972593). /evidence=ECO:0000269|PubMed:6166590. /id=VAR_002964.
+69	69	Region
+			region	Variant
+			note	L -> P (in Mizuho; unstable; dbSNP:rs33972593). /evidence=ECO:0000269|PubMed:893142. /id=VAR_002965.
+70	70	Region
+			region	Variant
+			note	G -> D (in Rambam; dbSNP:rs34718174). /evidence=ECO:0000269|PubMed:9761252. /id=VAR_002966.
+70	70	Region
+			region	Variant
+			note	G -> R (in Kenitra; dbSNP:rs33947415). /id=VAR_002967.
+70	70	Region
+			region	Variant
+			note	G -> S (in City of Hope; dbSNP:rs33947415). /evidence=ECO:0000269|PubMed:6434492. /id=VAR_002968.
+71	71	Region
+			region	Variant
+			note	A -> D (in Seattle; O(2) affinity down; unstable; dbSNP:rs33946401). /id=VAR_002969.
+72	73	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+72	72	Region
+			region	Variant
+			note	F -> S (in Christchurch; unstable; dbSNP:rs34362537). /id=VAR_002970.
+74	74	Region
+			region	Variant
+			note	D -> G (in Tilburg; O(2) affinity down; dbSNP:rs33967755). /id=VAR_002971.
+74	74	Region
+			region	Variant
+			note	D -> V (in Mobile; O(2) affinity down; dbSNP:rs33967755). /id=VAR_002972.
+74	74	Region
+			region	Variant
+			note	D -> Y (in Vancouver; O(2) affinity down; dbSNP:rs33945705). /id=VAR_002973.
+75	76	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+75	75	Region
+			region	Variant
+			note	G -> R (in Aalborg; unstable; dbSNP:rs33916541). /id=VAR_002974.
+75	75	Region
+			region	Variant
+			note	G -> V (in Bushwick; unstable; dbSNP:rs33976006). /id=VAR_002975.
+76	76	Region
+			region	Variant
+			note	L -> P (in Atlanta; unstable; dbSNP:rs33950542). /evidence=ECO:0000269|Ref.13. /id=VAR_002976.
+76	76	Region
+			region	Variant
+			note	L -> R (in Pasadena; O(2) affinity up; unstable; dbSNP:rs33950542). /id=VAR_002977.
+77	77	Region
+			region	Variant
+			note	A -> D (in J-Chicago; dbSNP:rs33985847). /id=VAR_002978.
+78	80	Region
+			region	Hydrogen bonded turn
+			note	/evidence=ECO:0007829|PDB:1IRD.
+78	78	Region
+			region	Variant
+			note	H -> D (in J-Iran; dbSNP:rs33991294). /id=VAR_002979.
+78	78	Region
+			region	Variant
+			note	H -> R (in Costa Rica; dbSNP:rs33952543). /evidence=ECO:0000269|PubMed:8641705. /id=VAR_002980.
+78	78	Region
+			region	Variant
+			note	H -> Y (in Fukuyama; dbSNP:rs33991294). /id=VAR_002981.
+79	79	Region
+			region	Variant
+			note	L -> R (in Quin-hai; dbSNP:rs34870172). /evidence=ECO:0000269|PubMed:6629822. /id=VAR_002982.
+80	80	Region
+			region	Variant
+			note	D -> Y (in Tampa; dbSNP:rs33990858). /id=VAR_002983.
+81	81	Region
+			region	Variant
+			note	N -> K (in G-Szuhu/Gifu; dbSNP:rs35890380). /id=VAR_002984.
+82	95	Region
+			region	Helical region
+			note	/evidence=ECO:0007829|PDB:2W72.
+82	82	Region
+			region	Variant
+			note	L -> H (in La Roche-sur-Yon; unstable and O(2) affinity up; dbSNP:rs33936967). /evidence=ECO:0000269|PubMed:1540659. /id=VAR_012663.
+82	82	Region
+			region	Variant
+			note	L -> R (in Baylor; unstable; dbSNP:rs33936967). /id=VAR_002985.
+82	82	Region
+			region	Variant
+			note	L -> V (in dbSNP:rs11549406). /id=VAR_049273.
+83	83	Region
+			region	Variant
+			note	K -> M (in Helsinki; O(2) affinity up; dbSNP:rs33987903). /evidence=ECO:0000269|PubMed:826083. /id=VAR_002986.
+83	83	Region
+			region	Variant
+			note	K -> N (in Providence; dbSNP:rs33991993). /id=VAR_012664.
+83	83	Site
+			site_type	acetylation
+			note	N6-acetyllysine. /evidence=ECO:0000269|PubMed:4531009.
+83	83	Site
+			site_type	other
+			note	Not glycated. /evidence=ECO:0000269|PubMed:7358733.
+84	84	Region
+			region	Variant
+			note	G -> D (in Pyrgos; dbSNP:rs1803195). /evidence=ECO:0000269|PubMed:12144064. /id=VAR_025396.
+84	84	Region
+			region	Variant
+			note	G -> R (in Muskegon; dbSNP:rs33930385). /id=VAR_002987.
+85	86	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+85	85	Region
+			region	Variant
+			note	T -> I (in Kofu; dbSNP:rs35914488). /evidence=ECO:0000269|PubMed:3744871. /id=VAR_002988.
+87	87	Region
+			region	Variant
+			note	A -> D (in Olomouc; O(2) affinity up; dbSNP:rs35819837). /evidence=ECO:0000269|PubMed:3623975. /id=VAR_002989.
+88	88	Region
+			region	Variant
+			note	T -> I (in Quebec-Chori; dbSNP:rs33993568). /id=VAR_002990.
+88	88	Region
+			region	Variant
+			note	T -> K (in D-Ibadan; dbSNP:rs33993568). /id=VAR_002991.
+88	88	Region
+			region	Variant
+			note	T -> P (in Valletta; dbSNP:rs35553496). /id=VAR_002992.
+88	88	Site
+			site_type	phosphorylation
+			note	Phosphothreonine. /evidence=ECO:0007744|PubMed:24275569.
+89	89	Region
+			region	Variant
+			note	L -> P (in Santa Ana; unstable; dbSNP:rs33940204). /id=VAR_002993.
+89	89	Region
+			region	Variant
+			note	L -> R (in Boras; unstable; dbSNP:rs33940204). /id=VAR_002994.
+90	90	Region
+			region	Variant
+			note	S -> N (in Creteil; O(2) affinity up; dbSNP:rs33917628). /id=VAR_002995.
+90	90	Region
+			region	Variant
+			note	S -> R (in Vanderbilt; O(2) affinity up; dbSNP:rs35351128). /id=VAR_002996.
+91	91	Region
+			region	Variant
+			note	E -> D (in Pierre-Benite; O(2) affinity up; dbSNP:rs35002698). /evidence=ECO:0000269|PubMed:3384709. /id=VAR_002997.
+91	91	Region
+			region	Variant
+			note	E -> K (in Agenogi; O(2) affinity down; dbSNP:rs33913712). /id=VAR_002998.
+92	92	Region
+			region	Variant
+			note	L -> P (in Sabine; unstable; dbSNP:rs33917785). /id=VAR_002999.
+92	92	Region
+			region	Variant
+			note	L -> R (in Caribbean; O(2) affinity down; unstable; dbSNP:rs33917785). /evidence=ECO:0000269|PubMed:992050. /id=VAR_003000.
+93	94	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+93	93	Region
+			region	Variant
+			note	H -> D (in J-Altgelds Gardens; unstable; dbSNP:rs33924775). /evidence=ECO:0000269|PubMed:721609. /id=VAR_003001.
+93	93	Region
+			region	Variant
+			note	H -> N (in Isehara; unstable; dbSNP:rs33924775). /evidence=ECO:0000269|PubMed:1787097. /id=VAR_003002.
+93	93	Region
+			region	Variant
+			note	H -> P (in Newcastle and Duino; associated in cis with S-104 in Duino; unstable; dbSNP:rs33974325). /evidence=ECO:0000269|PubMed:1511986. /id=VAR_003003.
+93	93	Region
+			region	Variant
+			note	H -> Q (in Istambul; unstable; dbSNP:rs34083951). /evidence=ECO:0000269|PubMed:4639022. /id=VAR_003004.
+94	94	Region
+			region	Variant
+			note	C -> R (in Okazaki; O(2) affinity up; unstable; dbSNP:rs33972927). /id=VAR_003005.
+94	94	Site
+			site_type	modified
+			note	S-nitrosocysteine. /evidence=ECO:0000269|PubMed:8637569, ECO:0000269|PubMed:9843411.
+95	95	Region
+			region	Variant
+			note	D -> G (in Chandigarh; dbSNP:rs34579351). /id=VAR_003006.
+95	95	Region
+			region	Variant
+			note	D -> H (in Barcelona; O(2) affinity up; dbSNP:rs33959340). /id=VAR_003007.
+95	95	Region
+			region	Variant
+			note	D -> N (in Bunbury; O(2) affinity up; dbSNP:rs33959340). /evidence=ECO:0000269|PubMed:6629823. /id=VAR_003008.
+96	96	Region
+			region	Variant
+			note	K -> M (in J-Cordoba; dbSNP:rs35204496). /id=VAR_003009.
+96	96	Region
+			region	Variant
+			note	K -> N (in Detroit; dbSNP:rs36038739). /id=VAR_003010.
+96	96	Site
+			site_type	other
+			note	Not glycated. /evidence=ECO:0000269|PubMed:7358733.
+97	97	Region
+			region	Variant
+			note	L -> P (in Debrousse; unstable; O(2) affinity up; dbSNP:rs36081208). /evidence=ECO:0000269|PubMed:8602627. /id=VAR_003011.
+97	97	Region
+			region	Variant
+			note	L -> V (in Regina; O(2) affinity up; dbSNP:rs34665886). /id=VAR_003012.
+98	98	Region
+			region	Variant
+			note	H -> L (in Wood; O(2) affinity up; dbSNP:rs33951978). /id=VAR_003013.
+98	98	Region
+			region	Variant
+			note	H -> P (in Nagoya; O(2) affinity up; unstable; dbSNP:rs33951978). /evidence=ECO:0000269|PubMed:3838976. /id=VAR_003014.
+98	98	Region
+			region	Variant
+			note	H -> Q (in Malmoe; O(2) affinity up; dbSNP:rs34515413). /id=VAR_003015.
+98	98	Region
+			region	Variant
+			note	H -> Y (in Moriguchi; dbSNP:rs33950993). /id=VAR_003016.
+99	99	Region
+			region	Variant
+			note	V -> G (in Nottingham; unstable; dbSNP:rs33985510). /id=VAR_003017.
+100	100	Region
+			region	Variant
+			note	D -> E (in Coimbra; O(2) affinity up; dbSNP:rs34013622). /evidence=ECO:0000269|PubMed:1814856. /id=VAR_003018.
+101	101	Region
+			region	Variant
+			note	P -> L (in Brigham; O(2) affinity up; dbSNP:rs33965000). /id=VAR_003019.
+101	101	Region
+			region	Variant
+			note	P -> R (in New Mexico; dbSNP:rs33965000). /id=VAR_003020.
+102	119	Region
+			region	Helical region
+			note	/evidence=ECO:0007829|PDB:2W72.
+102	102	Region
+			region	Variant
+			note	E -> D (in Potomac; O(2) affinity up; dbSNP:rs35209591). /id=VAR_003021.
+102	102	Region
+			region	Variant
+			note	E -> G (in Alberta; O(2) affinity up; dbSNP:rs33937393). /id=VAR_003022.
+102	102	Region
+			region	Variant
+			note	E -> K (in British Columbia; O(2) affinity up; dbSNP:rs33966487). /id=VAR_003023.
+102	102	Region
+			region	Variant
+			note	E -> Q (in Rush; unstable; dbSNP:rs33966487). /evidence=ECO:0000269|PubMed:4129558. /id=VAR_003024.
+103	103	Region
+			region	Variant
+			note	N -> S (in Beth Israel; O(2) affinity down; unstable; dbSNP:rs33948057). /id=VAR_003025.
+103	103	Region
+			region	Variant
+			note	N -> Y (in St Mande; O(2) affinity down; dbSNP:rs33927739). /evidence=ECO:0000269|PubMed:7238856. /id=VAR_003026.
+104	104	Region
+			region	Variant
+			note	F -> L (in Heathrow; O(2) affinity up; dbSNP:rs35067717). /id=VAR_003027.
+105	106	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+105	105	Region
+			region	Variant
+			note	R -> S (in Camperdown and Duino; associated in cis with P-92 in Duino; unstable; dbSNP:rs33914944). /evidence=ECO:0000269|PubMed:1138922, ECO:0000269|PubMed:1511986. /id=VAR_003028.
+105	105	Region
+			region	Variant
+			note	R -> T (in Sherwood Forest; dbSNP:rs33911434). /id=VAR_003029.
+108	108	Region
+			region	Variant
+			note	G -> R (in Burke; O(2) affinity down; unstable; dbSNP:rs35017910). /evidence=ECO:0000269|PubMed:8401300. /id=VAR_003030.
+109	109	Region
+			region	Variant
+			note	N -> K (in Presbyterian; O(2) affinity down; unstable; dbSNP:rs34933751). /evidence=ECO:0000269|PubMed:668922. /id=VAR_003031.
+110	110	Region
+			region	Variant
+			note	V -> M (in San Diego; O(2) affinity up; dbSNP:rs33969677). /id=VAR_003032.
+111	112	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+111	111	Region
+			region	Variant
+			note	L -> P (in Showa-Yakushiji; dbSNP:rs35256489). /id=VAR_003033.
+112	112	Region
+			region	Variant
+			note	V -> A (in Stanmore; O(2) affinity down; unstable; dbSNP:rs35871407). /evidence=ECO:0000269|PubMed:1917537. /id=VAR_003034.
+113	113	Region
+			region	Variant
+			note	C -> F (in Canterbury; dbSNP:rs33932908). /evidence=ECO:0000269|PubMed:11939514. /id=VAR_025397.
+113	113	Region
+			region	Variant
+			note	C -> R (in Indianapolis; dbSNP:rs35849199). /evidence=ECO:0000269|PubMed:429365, ECO:0000269|Ref.5. /id=VAR_003035.
+113	113	Region
+			region	Variant
+			note	C -> Y (in Yahata; dbSNP:rs33932908). /evidence=ECO:0000269|PubMed:1917530. /id=VAR_003036.
+115	115	Region
+			region	Variant
+			note	L -> M (in Zengcheng; dbSNP:rs33917394). /evidence=ECO:0000269|PubMed:2079435. /id=VAR_010144.
+115	115	Region
+			region	Variant
+			note	L -> P (in B-THAL; Durham-N.C./Brescia; dbSNP:rs36015961). /evidence=ECO:0000269|PubMed:1301199, ECO:0000269|PubMed:8111050, ECO:0000269|Ref.7. /id=VAR_010145.
+116	116	Region
+			region	Variant
+			note	A -> D (in B-THAL; Hradec Kralove; unstable; dbSNP:rs35485099). /evidence=ECO:0000269|PubMed:7693620. /id=VAR_003037.
+116	116	Region
+			region	Variant
+			note	A -> P (in Madrid; unstable; dbSNP:rs34945623). /id=VAR_003038.
+117	117	Region
+			region	Variant
+			note	H -> L (in Vexin; increased oxygen affinity; dbSNP:rs33978082). /evidence=ECO:0000269|PubMed:12908805. /id=VAR_025398.
+117	117	Region
+			region	Variant
+			note	H -> Q (in Hafnia; dbSNP:rs35209776). /id=VAR_003039.
+118	118	Region
+			region	Variant
+			note	H -> P (in Saitama; unstable; dbSNP:rs33935673). /evidence=ECO:0000269|PubMed:6687721. /id=VAR_003040.
+118	118	Region
+			region	Variant
+			note	H -> R (in P-Galveston; dbSNP:rs33935673). /id=VAR_003041.
+118	118	Region
+			region	Variant
+			note	H -> Y (in Tsukumi; dbSNP:rs33935527). /evidence=ECO:0000269|PubMed:11300344. /id=VAR_025399.
+120	122	Region
+			region	Helical region
+			note	/evidence=ECO:0007829|PDB:2W72.
+120	121	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+120	120	Region
+			region	Variant
+			note	G -> A (in Iowa; dbSNP:rs33947020). /id=VAR_003042.
+121	121	Region
+			region	Variant
+			note	K -> E (in Hijiyama; dbSNP:rs33924134). /id=VAR_003043.
+121	121	Region
+			region	Variant
+			note	K -> I (in Jianghua; dbSNP:rs34303736). /evidence=ECO:0000269|PubMed:6618888. /id=VAR_003044.
+121	121	Region
+			region	Variant
+			note	K -> Q (in Takamatsu; dbSNP:rs33924134). /id=VAR_003045.
+121	121	Site
+			site_type	glycosylation
+			note	N-linked (Glc) (glycation) lysine. /evidence=ECO:0000269|PubMed:7358733.
+122	122	Region
+			region	Variant
+			note	E -> A (in D-Neath; dbSNP:rs33987957). /evidence=ECO:0000269|PubMed:8330979. /id=VAR_003046.
+122	122	Region
+			region	Variant
+			note	E -> G (in St Francis; dbSNP:rs33987957). /id=VAR_003047.
+122	122	Region
+			region	Variant
+			note	E -> K (in O-Arab; dbSNP:rs33946267). /id=VAR_003049.
+122	122	Region
+			region	Variant
+			note	E -> Q (in D-Los Angeles/D-Punjab/D-Portugal/D-Chicago/D-Oak Ridge; dbSNP:rs33946267). /id=VAR_003048.
+122	122	Region
+			region	Variant
+			note	E -> V (in D-Camperdown/Beograd; dbSNP:rs33987957). /id=VAR_003050.
+123	124	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+124	124	Region
+			region	Variant
+			note	T -> I (in Villejuif; asymptomatic variant; dbSNP:rs33935383). /evidence=ECO:0000269|PubMed:11300351. /id=VAR_003051.
+125	143	Region
+			region	Helical region
+			note	/evidence=ECO:0007829|PDB:2W72.
+125	125	Region
+			region	Variant
+			note	P -> Q (in Ty Gard; O(2) affinity up; dbSNP:rs33983276). /evidence=ECO:0000269|Ref.8. /id=VAR_003053.
+125	125	Region
+			region	Variant
+			note	P -> R (in Khartoum; unstable; dbSNP:rs33983276). /id=VAR_003052.
+125	125	Region
+			region	Variant
+			note	P -> S (in Tunis; dbSNP:rs35461710). /id=VAR_003054.
+127	127	Region
+			region	Variant
+			note	V -> A (in Beirut; dbSNP:rs33925391). /id=VAR_003055.
+127	127	Region
+			region	Variant
+			note	V -> E (in Hofu; unstable; dbSNP:rs33925391). /id=VAR_003057.
+127	127	Region
+			region	Variant
+			note	V -> G (in B-THAL; Dhonburi/Neapolis; unstable; dbSNP:rs33925391). /evidence=ECO:0000269|PubMed:2399911. /id=VAR_003056.
+128	128	Region
+			region	Variant
+			note	Q -> E (in Complutense; dbSNP:rs33971634). /evidence=ECO:0000269|PubMed:3707969. /id=VAR_003058.
+128	128	Region
+			region	Variant
+			note	Q -> K (in Brest; unstable; dbSNP:rs33971634). /evidence=ECO:0000269|PubMed:3384710. /id=VAR_003059.
+129	130	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+129	129	Region
+			region	Variant
+			note	A -> D (in J-Guantanamo; unstable; dbSNP:rs33957286). /id=VAR_003060.
+130	130	Region
+			region	Variant
+			note	A -> P (in Crete; O(2) affinity up; unstable; dbSNP:rs35939430). /id=VAR_003061.
+130	130	Region
+			region	Variant
+			note	A -> V (in La Desirade; O(2) affinity down; unstable; dbSNP:rs111645889). /evidence=ECO:0000269|PubMed:3557994. /id=VAR_003062.
+131	131	Region
+			region	Variant
+			note	Y -> D (in Wien; unstable; dbSNP:rs35834416). /id=VAR_003063.
+131	131	Region
+			region	Variant
+			note	Y -> S (in Nevers; dbSNP:rs33937535). /id=VAR_003064.
+132	132	Region
+			region	Variant
+			note	Q -> E (in Camden/Tokuchi/Motown; dbSNP:rs33910209). /id=VAR_003065.
+132	132	Region
+			region	Variant
+			note	Q -> K (in Shelby/Leslie/Deaconess; unstable; dbSNP:rs33910209). /evidence=ECO:0000269|PubMed:6526653. /id=VAR_003066.
+132	132	Region
+			region	Variant
+			note	Q -> P (in Shangai; unstable; dbSNP:rs33950778). /id=VAR_003067.
+132	132	Region
+			region	Variant
+			note	Q -> R (in Sarrebourg; unstable; dbSNP:rs33950778). /id=VAR_003068.
+133	133	Region
+			region	Variant
+			note	K -> N (in Yamagata; O(2) affinity down; dbSNP:rs33946775). /id=VAR_003069.
+133	133	Region
+			region	Variant
+			note	K -> Q (in K-Woolwich; dbSNP:rs33953406). /id=VAR_003070.
+134	134	Region
+			region	Variant
+			note	V -> L (in Extredemura; dbSNP:rs34095019). /id=VAR_003071.
+135	135	Region
+			region	Variant
+			note	V -> E (in North Shore-Caracas; unstable; dbSNP:rs33966761). /evidence=ECO:0000269|PubMed:891976. /id=VAR_003072.
+136	136	Region
+			region	Variant
+			note	A -> D (in Beckman; originally reported as E-136; O(2) affinity down; unstable; dbSNP:rs35669628). /evidence=ECO:0000269|PubMed:19453576, ECO:0000269|PubMed:26209877, ECO:0000269|Ref.140. /id=VAR_003073.
+136	136	Region
+			region	Variant
+			note	A -> P (in Altdorf; O(2) affinity up; unstable; dbSNP:rs35492035). /id=VAR_003074.
+137	137	Region
+			region	Variant
+			note	G -> D (in Hope; O(2) affinity down; unstable; dbSNP:rs33949486). /id=VAR_003075.
+139	139	Region
+			region	Variant
+			note	A -> P (in Brockton; unstable; dbSNP:rs33919821). /id=VAR_003076.
+140	140	Region
+			region	Variant
+			note	N -> D (in Geelong; unstable; dbSNP:rs33910475). /evidence=ECO:0000269|PubMed:1917539. /id=VAR_003077.
+140	140	Region
+			region	Variant
+			note	N -> K (in Hinsdale; O(2) affinity down; dbSNP:rs34240441). /evidence=ECO:0000269|PubMed:2513289. /id=VAR_003078.
+140	140	Region
+			region	Variant
+			note	N -> S (in S-Wake; associated in cis with V-6). /evidence=ECO:0000269|Ref.10. /id=VAR_025335.
+140	140	Region
+			region	Variant
+			note	N -> Y (in Aurora; O(2) affinity up; dbSNP:rs33910475). /evidence=ECO:0000269|PubMed:8718692. /id=VAR_003079.
+141	142	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+141	141	Region
+			region	Variant
+			note	A -> D (in Himeji; unstable; O(2) affinity down; dbSNP:rs33927093). /evidence=ECO:0000269|PubMed:3754244. /id=VAR_003080.
+141	141	Region
+			region	Variant
+			note	A -> T (in St Jacques; O(2) affinity up; dbSNP:rs34980264). /id=VAR_003081.
+141	141	Region
+			region	Variant
+			note	A -> V (in Puttelange; polycythemia; O(2) affinity up; dbSNP:rs33927093). /evidence=ECO:0000269|PubMed:8522332. /id=VAR_003082.
+142	142	Region
+			region	Variant
+			note	L -> R (in Olmsted; unstable; dbSNP:rs35854892). /id=VAR_003083.
+143	143	Region
+			region	Variant
+			note	A -> D (in Ohio; O(2) affinity up; dbSNP:rs33921821). /id=VAR_003084.
+144	146	Region
+			region	Helical region
+			note	/evidence=ECO:0007829|PDB:1IRD.
+144	144	Region
+			region	Variant
+			note	H -> D (in Rancho Mirage; dbSNP:rs33929415). /id=VAR_003085.
+144	144	Region
+			region	Variant
+			note	H -> P (in Syracuse; O(2) affinity up; dbSNP:rs33918338). /id=VAR_003087.
+144	144	Region
+			region	Variant
+			note	H -> Q (in Little Rock; O(2) affinity up; dbSNP:rs36020563). /id=VAR_003086.
+144	144	Region
+			region	Variant
+			note	H -> R (in Abruzzo; O(2) affinity up; dbSNP:rs33918338). /id=VAR_003088.
+145	146	Site
+			site_type	other
+			note	(Microbial infection) Cleavage; by N.americanus apr-2. /evidence=ECO:0000269|PubMed:12552433.
+145	145	Region
+			region	Variant
+			note	K -> E (in Mito; O(2) affinity up; dbSNP:rs33964352). /id=VAR_003089.
+145	145	Site
+			site_type	glycosylation
+			note	N-linked (Glc) (glycation) lysine; alternate. /evidence=ECO:0000269|PubMed:7358733.
+145	145	Site
+			site_type	acetylation
+			note	N6-acetyllysine; alternate. /evidence=ECO:0000269|PubMed:4531009.
+146	146	Region
+			region	Variant
+			note	Y -> C (in Rainier; O(2) affinity up; dbSNP:rs35117167). /id=VAR_003090.
+146	146	Region
+			region	Variant
+			note	Y -> H (in Bethesda; O(2) affinity up; dbSNP:rs33949869). /id=VAR_003091.
+147	147	Region
+			region	Variant
+			note	H -> D (in Hiroshima; O(2) affinity up; dbSNP:rs33961444). /id=VAR_003092.
+147	147	Region
+			region	Variant
+			note	H -> L (in Cowtown; O(2) affinity up; dbSNP:rs33954264). /id=VAR_003093.
+147	147	Region
+			region	Variant
+			note	H -> P (in York; O(2) affinity up; dbSNP:rs33954264). /id=VAR_003094.
+147	147	Region
+			region	Variant
+			note	H -> Q (in Kodaira; O(2) affinity up; dbSNP:rs33985739). /evidence=ECO:0000269|PubMed:1634367. /id=VAR_003095.
+

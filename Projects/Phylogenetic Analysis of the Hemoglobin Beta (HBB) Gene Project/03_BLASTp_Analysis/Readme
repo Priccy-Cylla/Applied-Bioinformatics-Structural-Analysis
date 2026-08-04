@@ -1,3 +1,5 @@
+# BLASTp Analysis
+---
 A BLASTp search, using the Human Haemoglobin Subunit beta as the query sequence, against the NCBI protein database was conducted. The top 30 homologous protein sequences were retrieved with emphasis on query coverage, sequence similarity, percent identity and E-value.
 The FASTA format of the sequence dump was downloaded and is attached in this sub-folder. The Alignment text and BLAST hit table were also downloaded. This sequence dump will be used for subsequent multiple sequence alignment and phylogenetic analysis. 
 PNG files of the BLASTp analysis have also been included in this sub-folder.
